@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+	<channels_info>
+		<title>[COLOR yellow]frodo[/COLOR]</title>
+		<genre>EL ANILLO</genre>
+		<description>HOLA A TODOS LOS KODI HOBBIT</description>
+		<thumbnail>https://frasesdelapelicula.com/wp-content/uploads/2014/03/el-hobbit-2-la-desolacion-de-smaug.jpg</thumbnail>
+		<fanart>http://www.thenutgraph.com/user_uploads/images/2009/05/19/Lord%20of%20the%20Rings%20-%20the%20ring.bmp</fanart>
+		<date>02.08.2017</date>
+		<credits>Gracias</credits>
+	</channels_info>
+	<channels>
+
+		<channel>
+			<name>[COLOR cyan][/COLOR][COLOR yellow]FRODO[/COLOR]</name>
+			<thumbnail>http://st-listas.20minutos.es/images/2008-09/46775/list_640px.jpg?1242739282</thumbnail>
+			<fanart>http://www.thenutgraph.com/user_uploads/images/2009/05/19/Lord%20of%20the%20Rings%20-%20the%20ring.bmp</fanart>
+        <items>
+            <item>
+                <title>POKER CHANNEL</title>
+                <link>mms://some/place/pokerchannel</link>
+                <thumbnail>http://channel.png</thumbnail>
+                <genre>Poker</genre>
+                <info>The Poker Channel – Europe’s largest dedicated gaming TV network is available online to a global audience, and to more than 30 million cable and satellite homes in Europe and Latin America.</info>
+                <date>07.12.2011</date>  <!-- format - dd.mm.yyyy -->
+                <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
+                <fanart>http://fanart.jpg</fanart>
+            </item>
+            
+            <item>
+                <title>News 4</title>         
+                <link>rtmp://some/place playpath=some_place swfUrl="http://player.swf pageUrl=http://nhkworld/r/movie/ swfVfy=true live=true</link>
+                <thumbnail>C:\my_thumbs\news.png</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>Television</name>
+    <thumbnail>http://television.png</thumbnail>
+    <fanart>http://fanart.jpg</fanart>
+    <subchannel>
+        <name>Tv 1</name>
+        <thumbnail>http://television.png</thumbnail>
+        <fanart>http://fanart.jpg</fanart>
+            <subitems>
+                <subitem>
+                <title>tv1-1</title>
+                <link>mms://some/place</link>
+                <thumbnail>http://thumb.png </thumbnail>
+                </subitem>
