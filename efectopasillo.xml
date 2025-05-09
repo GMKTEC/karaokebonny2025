@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+
+<channel>
+<name>EFECTO PASILLO</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>Pasillo Pan Y Mantequilla</title>        
+<urlsolve>https://www.youtube.com/watch?v=svXbVOc-Pgo</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>No Importa Que Llueva</title>        
+<urlsolve>https://www.youtube.com/watch?v=muYG978fSRU</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+</items>
+</channel>
+
+
+</channels>

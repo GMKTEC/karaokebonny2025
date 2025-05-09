@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+
+<channel>
+<name>NINO BRAVO</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>Libre</title>        
+<urlsolve>https://www.youtube.com/watch?v=2emuUPq7564</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Un beso y una flor</title>        
+<urlsolve>https://www.youtube.com/watch?v=iGIJoKjolVo</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Noelia</title>        
+<urlsolve>https://www.youtube.com/watch?v=u-fq1HbHVuY</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>América, América</title>        
+<urlsolve>https://www.youtube.com/watch?v=NxZ4dj-9hxc</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+</items>
+</channel>
+
+
+</channels>

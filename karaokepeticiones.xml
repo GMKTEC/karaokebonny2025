@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+
+
+<channel>
+<name>Peticiones</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+
+<item>
+<title>El hombre del piano Karaoke Version G. Guido</title>        
+<urlsolve>https://youtu.be/_vcLmR8ked4</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<item>
+
+
+<item>
+<title>David Guetta ft. Sia - Titanium (Karaoke Version) </title>        
+<urlsolve>https://youtu.be/32LB2DR_JM0</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>Beyonce - Halo (Karaoke Version)</title>        
+<urlsolve>https://youtu.be/TBwf18A_Obo</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+</items>
+</channel>

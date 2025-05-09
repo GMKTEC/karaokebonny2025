@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+
+<channel>
+<name>JUANES</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>La Camisa Negra</title>        
+<urlsolve>https://www.youtube.com/watch?v=TxRmX0RNC18&app=desktop</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Me Enamora</title>        
+<urlsolve>https://www.youtube.com/watch?v=vpa-8oG1uoE</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>A Dios Le Pido</title>        
+<urlsolve>https://www.youtube.com/watch?v=bmhoIR3kmNM</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Nada Valgo Sin Tu Amor</title>        
+<urlsolve>https://www.youtube.com/watch?v=XkZlY8HcdIc</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Fuego</title>        
+<urlsolve>https://www.youtube.com/watch?v=4mfQt2gD3A4</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+</items>
+</channel>
+
+
+</channels>

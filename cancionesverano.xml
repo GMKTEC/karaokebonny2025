@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+
+<channel>
+<name>CANCIONES VERANO</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>Mayonesa</title>        
+<urlsolve>https://www.youtube.com/watch?v=Buc4Fo4_-ig</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Levantando las manos</title>        
+<urlsolve>https://www.youtube.com/watch?v=lDPNDQK5344</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>La Mordidita</title>        
+<urlsolve>https://www.youtube.com/watch?v=ToZMHmBmA2E</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+</items>
+</channel>
+
+
+</channels>

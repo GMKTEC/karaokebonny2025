@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+
+
+<channel>
+<name>Luis Miguel </name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>Si nos Dejan</title>
+<urlsolve>https://www.youtube.com/watch?v=uXkubrEPZXE</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>La Incondicional</title>
+<urlsolve>https://www.youtube.com/watch?v=Wydo1jGtDtk</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>El dia que me quieras </title>        
+<urlsolve>https://www.youtube.com/watch?v=dFYPXMXyCGM</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sabor A Mi </title>        
+<urlsolve>https://www.youtube.com/watch?v=dFYPXMXyCGM</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Bésame mucho </title>        
+<urlsolve>https://www.youtube.com/watch?v=wjt7a7suE74</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+</items>
+</channel>

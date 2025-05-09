@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+
+<channel>
+<name>karaoke orquestas</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>perdona si te hago llorar</title>        
+<urlsolve>https://www.youtube.com/watch?v=b6bjTzVw95s</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Popurrí Billo's</title>        
+<urlsolve>https://www.youtube.com/watch?v=dUyOgiuGAgc</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Al Paso - Billos</title>        
+<urlsolve>https://www.youtube.com/watch?v=DRJYhTN550E</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Popurrí Billo's II</title>        
+<urlsolve>https://www.youtube.com/watch?v=7-eU3n56RkQ</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Necesito una mujer</title>        
+<urlsolve>https://www.youtube.com/watch?v=xsXDp9gFQyM</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+</items>
+</channel>
+
+
+</channels>
+

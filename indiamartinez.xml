@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+
+<channel>
+<name>INDIA MARTINEZ</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>Todo No Es Casualidad</title>        
+<urlsolve>https://www.youtube.com/watch?v=ECqK274qKvM</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>90 Minutos</title>        
+<urlsolve>https://www.youtube.com/watch?v=NxPTAE3QpP8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Vencer al Amor</title>        
+<urlsolve>https://www.youtube.com/watch?v=BVHo-zamgZQ</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Los Gatos no Ladran</title>        
+<urlsolve>https://www.youtube.com/watch?v=pIfBoybgdLk</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+</items>
+</channel>
+
+
+</channels>

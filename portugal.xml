@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+
+
+<channel>
+<name>musisca-portuguesa</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>Dancando lambada</title>        
+<urlsolve>https://www.youtube.com/watch?v=_Eg3hagSIZE</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Carrapicho-Tic tic tac</title>        
+<urlsolve>https://www.youtube.com/watch?v=v2j96IjIfKw</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Ragatanga-Rouge</title>        
+<urlsolve>https://www.youtube.com/watch?v=7nu1N5bTNh0</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Um mundo ideal</title>        
+<urlsolve>https://www.youtube.com/watch?v=g3JLIryqmNg</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Hotel California</title>        
+<urlsolve>https://www.youtube.com/watch?v=bY_bfHSRmMs</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Ai, Se Eu Te Pego</title>        
+<urlsolve>https://www.youtube.com/watch?v=Q2sE705mT6M</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+</items>
+</channel>
+
+
+</channels>

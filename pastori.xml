@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+
+<channel>
+<name>NIÑA PASTORI</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>VALGAME DIOS</title>        
+<urlsolve>https://www.youtube.com/watch?v=LzagrQPZVFM</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>AMOR DE SAN JUAN</title>        
+<urlsolve>https://www.youtube.com/watch?v=0WuzLAiSUOg</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>Tu Me Camelas</title>        
+<urlsolve>https://www.youtube.com/watch?v=fiX6v5fbXWI</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Echame Una Mano Prima</title>        
+<urlsolve>https://www.youtube.com/watch?v=foMAyMz32y4</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>CAI</title>        
+<urlsolve>https://www.youtube.com/watch?v=Wq38H-PeWko</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+</items>
+</channel>
+
+</channels>

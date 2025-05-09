@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+
+<channel>
+<name>ENRIQUEIGLESIAS</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>Duele el corazón</title>        
+<urlsolve>https://www.youtube.com/watch?v=2M8vh0-kFNA</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Bailando</title>        
+<urlsolve>https://www.youtube.com/watch?v=UyvOHwQIcso&list=RDUyvOHwQIcso#t=13</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Loco</title>        
+<urlsolve>https://www.youtube.com/watch?v=YxCCQI-b0K0</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+</items>
+</channel>
+
+
+</channels>

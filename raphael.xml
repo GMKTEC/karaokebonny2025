@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+
+<channel>
+<name>RAPHAEL</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>Mi Gran Noche</title>        
+<urlsolve>https://www.youtube.com/watch?v=LVPlUsZXniI</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Digan lo que digan</title>        
+<urlsolve>https://www.youtube.com/watch?v=YgNRoaMBopA</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>que sabe nadie</title>        
+<urlsolve>https://www.youtube.com/watch?v=EJ4rfc-KtHE</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>como yo te amo</title>        
+<urlsolve>https://www.youtube.com/watch?v=MI5eO6y3XLQ</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>

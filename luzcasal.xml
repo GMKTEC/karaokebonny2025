@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+
+<channel>
+<name>LUZCASAL</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>No me importa nada</title>        
+<urlsolve>https://www.youtube.com/watch?v=uaxAOJQTZbI</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Piensa en mi</title>        
+<urlsolve>https://www.youtube.com/watch?v=P6_NcrTuN0Y</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Historia De Un Amor</title>        
+<urlsolve>https://www.youtube.com/watch?v=UqjnjcG1zMM</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+</items>
+</channel>
+
+
+</channels>
