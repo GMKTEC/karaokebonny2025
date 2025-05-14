@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<canales>
+  <canal>
+    <nombre>[COLOR blue][B][I]•PRUEBA 1[/B][/I][/COLOR]</nombre>
+    <thumbnail>http://example.com/miniatura1.jpg</thumbnail>
+    <fanart>http://example.com/fanart1.jpg</fanart>
+    <elementos>
+      <item>
+        <titulo>[COLOR green][B][I]•Canción de prueba 1[/B][/I][/COLOR]</titulo>
+        <urlsolve>http://example.com/url1</urlsolve>
+        <thumbnail>http://example.com/thumbnail1.jpg</thumbnail>
+        <fanart>http://example.com/fanartcancion1.jpg</fanart>
+      </item>
+    </elementos>
+  </canal>
+</canales>
