@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <canales>
-  <canal>
-    <nombre>[COLOR blue][B][I]•PRUEBA 1[/B][/I][/COLOR]</nombre>
-    <thumbnail>http://example.com/miniatura1.jpg</thumbnail>
-    <fanart>http://example.com/fanart1.jpg</fanart>
-    <elementos>
-      <item>
-        <titulo>[COLOR green][B][I]•Canción de prueba 1[/B][/I][/COLOR]</titulo>
-        <urlsolve>http://example.com/url1</urlsolve>
-        <thumbnail>http://example.com/thumbnail1.jpg</thumbnail>
-        <fanart>http://example.com/fanartcancion1.jpg</fanart>
-      </item>
-    </elementos>
-  </canal>
-</canales>
+
+<canal>
+<nombre>[COLOR blue][B][I]•PRINCE ROCYE[/B][/I][/COLOR]</nombre>
+<thumbnail>http://3.bp.blogspot.com/-GXN28ZNoT6o/TimLDPd_2RI/AAAAAAAAHCU/vPR8rm1qy4Y/s1600/15E274F2-0938-4100-A854-10A4B688B5C8.jpg__294__440__CROPz0x294y440.jpeg</thumbnail>
+<fanart>https://flowhot.me/mp3/wp-content/uploads/2017/01/Prince%20Royce%20-%20Darte%20Un%20Beso.jpg</fanart>
+<elementos>
+
+
+
+<elemento>
+<titulo>[COLOR green][B][I]•DARTE UN BESO[/B][/I][/COLOR]</titulo>
+<urlsolve>https://www.youtube.com/watch?v=TwmZbeQ87yY</urlsolve>
+<thumbnail>http://2.bp.blogspot.com/-A2PQO_2YXzI/VQTPzJlpbQI/AAAAAAAAEew/_mJYVQKBusM/s1600/darte-un-beso.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Yr03_tItXno/maxresdefault.jpg</fanart>
+</elemento>
+
+
+  
