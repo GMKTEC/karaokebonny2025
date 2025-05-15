@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<canales>
 
-<canal>
-<nombre>[COLOR blue][B][I]•PRINCE ROCYE[/B][/I][/COLOR]</nombre>
-<thumbnail>http://3.bp.blogspot.com/-GXN28ZNoT6o/TimLDPd_2RI/AAAAAAAAHCU/vPR8rm1qy4Y/s1600/15E274F2-0938-4100-A854-10A4B688B5C8.jpg__294__440__CROPz0x294y440.jpeg</thumbnail>
-<fanart>https://flowhot.me/mp3/wp-content/uploads/2017/01/Prince%20Royce%20-%20Darte%20Un%20Beso.jpg</fanart>
-<elementos>
+<channels>
+
+<channel>
+<name>INDIA MARTINEZ</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>Todo No Es Casualidad</title>        
+<urlsolve>https://www.youtube.com/watch?v=ECqK274qKvM</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 
 
