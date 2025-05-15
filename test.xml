@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<channel>
-  <name>[COLOR purple]Cumbias Clásicas[/COLOR]</name>
-  <items>
-    <item>
-      <title>Mi Cumbia Favorita</title>
-      <urlsolve>URL_DIRECTA_DEL_VIDEO_CUMBIA_1</urlsolve>
-    </item>
-    <item>
-      <title>Otra Cumbia Genial</title>
-      <urlsolve>URL_DIRECTA_DEL_VIDEO_CUMBIA_2</urlsolve>
-    </item>
-  </items>
-</channel>
+<items>
+  <item>
+    <title>** [COLOR purple]CUMBIAS[/COLOR] **</title>
+    <thumbnail>https://raw.githubusercontent.com/tu-usuario/tu-repositorio/main/imagenes/cumbias_thumb.jpg</thumbnail>
+    <fanart>https://raw.githubusercontent.com/tu-usuario/tu-repositorio/main/imagenes/cumbias_fanart.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/tu-usuario/tu-repositorio/main/cumbias.xml</externallink>
+  </item>
+</items>
