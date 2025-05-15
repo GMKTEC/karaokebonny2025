@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+  <channel>
+    <name>INDIA MARTINEZ</name>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    <items>
+      <item>
+        <title>Todo No Es Casualidad</title>
+        <urlsolve>https://www.youtube.com/watch?v=ECqK274qKvM</urlsolve>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+      </item>
+      <item>
+        <title>DARTE UN BESO</title>
+        <urlsolve>https://www.youtube.com/watch?v=TwmZbeQ87yY</urlsolve>
+        <thumbnail>http://2.bp.blogspot.com/-A2PQO_2YXzI/VQTPzJlpbQI/AAAAAAAAEew/_mJYVQKBusM/s1600/darte-un-beso.jpg</thumbnail>
+        <fanart>https://i.ytimg.com/vi/Yr03_tItXno/maxresdefault.jpg</fanart>
+      </item>
+    </items>
+  </channel>
+</channels>
