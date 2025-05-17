@@ -1,30 +1,7 @@
-<channel>
-    <title>[COLOR gold]BONNY Karaoke Familiar 🎤[/COLOR]</title>
-
-    <!-- Mensaje de bienvenida -->
-    <item>
-        <title>[COLOR green]🎶 Proyecto familiar sin ánimo de lucro[/COLOR]</title>
-        <link>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/readme.txt</link>
-        <thumbnail>https://i.imgur.com/ZUNy0bS.png</thumbnail>
-        <fanart>https://i.imgur.com/pq8zr9s.jpg</fanart>
-        <info>Karaoke para cantar en casa con la familia. Contenido educativo y recreativo.</info>
-    </item>
-
-    <!-- Ejemplo Dailymotion -->
-    <item>
-        <title>[COLOR deepskyblue]💃 Juan Luis Guerra - Burbujas de Amor[/COLOR]</title>
-        <link><![CDATA[plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x8puivw]]></link>
-        <thumbnail>https://i.imgur.com/8RlVmjF.jpg</thumbnail>
-        <fanart>https://i.imgur.com/y3mIbqA.jpg</fanart>
-        <info>Karaoke en Dailymotion. Uso casero, sin fines comerciales.</info>
-    </item>
-
-    <!-- Ejemplo Karafun (si tienes enlace directo) -->
-    <item>
-        <title>[COLOR violet]🎤 Karafun - A mi manera (instrumental)[/COLOR]</title>
-        <link>https://cdn.karafun.com/karaoke.mp4</link> <!-- Reemplaza esto por tu enlace real -->
-        <thumbnail>https://i.imgur.com/lLDuIqV.jpg</thumbnail>
-        <fanart>https://i.imgur.com/y3mIbqA.jpg</fanart>
-        <info>Vídeo de Karafun si tienes el MP4 descargado o un enlace válido directo.</info>
-    </item>
-</channel>
+<item>
+    <title>[COLOR yellow]BONNY Karaoke Familiar 🎤[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/BONNY-karaoke.xml</link>
+    <thumbnail>https://i.imgur.com/ZUNy0bS.png</thumbnail>
+    <fanart>https://i.imgur.com/pq8zr9s.jpg</fanart>
+    <info>Entrar al canal principal de karaoke familiar.</info>
+</item>
