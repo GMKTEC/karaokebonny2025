@@ -1,35 +1,32 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<items>
-
-  <!-- Bienvenida e información del proyecto -->
+Mister bin ( Bonifacio51), [17/05/2025 22:41]
+<?xml version="1.0" encoding="UTF-8"?>
+<channel>
+  <title>Karaoke Plus 1</title>
   <item>
-    <title>[COLOR gold]BONNY Karaoke Familiar 🎤[/COLOR]</title>
-    <thumbnail>https://i.imgur.com/ZUNy0bS.png</thumbnail>
-    <fanart>https://i.imgur.com/pq8zr9s.jpg</fanart>
-    <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/readme.txt</externallink>
+    <title>[COLOR red]Canción de Prueba 1[/COLOR]</title>
+    <link>https://www.youtube.com/watch?v=XXXXXXXXXXX</link>
   </item>
-
   <item>
-    <title>[COLOR green]🎶 Proyecto sin ánimo de lucro para cantar en casa[/COLOR]</title>
-    <thumbnail>https://i.imgur.com/lLDuIqV.jpg</thumbnail>
-    <fanart>https://i.imgur.com/pq8zr9s.jpg</fanart>
-    <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/readme.txt</externallink>
+    <title>[COLOR green]Canción de Prueba 2[/COLOR]</title>
+    <link>https://www.youtube.com/watch?v=YYYYYYYYYYY</link>
   </item>
+</channel>
 
-  <!-- Ejemplo de canción en Dailymotion -->
+Mister bin ( Bonifacio51), [17/05/2025 22:42]
+<?xml version="1.0" encoding="UTF-8"?>
+<channel>
+  <title>BONNY Karaoke 2025</title>
   <item>
-    <title>[COLOR deepskyblue]💃 Juan Luis Guerra - Burbujas de Amor[/COLOR]</title>
-    <thumbnail>https://i.imgur.com/8RlVmjF.jpg</thumbnail>
-    <fanart>https://i.imgur.com/y3mIbqA.jpg</fanart>
-    <externallink>x6cg4vl</externallink>
+    <title>Karaoke Plus 1</title>
+    <link>https://www.dropbox.com/s/tu_carpeta/index1.xml?dl=1</link>
   </item>
-
-  <!-- Ejemplo de archivo directo (Karafun o MP4 propio) -->
   <item>
-    <title>[COLOR violet]🎤 Karafun - A mi manera (instrumental)[/COLOR]</title>
-    <thumbnail>https://i.imgur.com/lLDuIqV.jpg</thumbnail>
-    <fanart>https://i.imgur.com/y3mIbqA.jpg</fanart>
-    <externallink>https://cdn.karafun.com/karaoke.mp4</externallink> <!-- Sustituye por tu enlace real -->
+    <title>Karaoke Plus 2</title>
+    <link>https://www.dropbox.com/s/tu_carpeta/index2.xml?dl=1</link>
   </item>
-
-</items>
+  <item>
+    <title>FAMYLY KARAOKE</title>
+    <link>https://www.dropbox.com/s/tu_carpeta/index3.xml?dl=1</link>
+  </item>
+  <!-- Añade más categorías aquí -->
+</channel>
