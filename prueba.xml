@@ -2,7 +2,7 @@
 <items>
   <!-- INTRODUCCIÓN Y BIENVENIDA -->
   <item>
-    <title>[COLOR gold]🎤 BIENVENIDO A KARAOKE BONNY 2025 🎤[/COLOR]</title>
+    <title>[COLOR gold] BIENVENIDO A KARAOKE BONNY 2025 [/COLOR]</title>
     <thumbnail>https://i.imgur.com/welcome-karaoke.png</thumbnail>
     <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
     <info>¡Bienvenidos a la experiencia de karaoke más completa y divertida para toda la familia! KARAOKE BONNY 2025 es completamente GRATUITO y SIN ÁNIMO DE LUCRO.</info>
@@ -11,7 +11,7 @@
   
   <!-- INFORMACIÓN DEL ADDON -->
   <item>
-    <title>[COLOR lime]ℹ️ SOBRE ESTE ADDON - ABOUT THIS ADDON[/COLOR]</title>
+    <title>[COLOR lime] SOBRE ESTE ADDON - ABOUT THIS ADDON[/COLOR]</title>
     <thumbnail>https://i.imgur.com/info-addon.png</thumbnail>
     <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
     <info>Información completa sobre KARAOKE BONNY 2025. Addon gratuito y sin ánimo de lucro diseñado para el entretenimiento familiar en casa. Complete information about our free, non-profit family karaoke addon.</info>
@@ -20,7 +20,7 @@
   
   <!-- PROPÓSITO FAMILIAR -->
   <item>
-    <title>[COLOR pink]👨‍👩‍👧‍👦 DIVERSIÓN FAMILIAR - FAMILY FUN[/COLOR]</title>
+    <title>[COLOR pink] DIVERSIÓN FAMILIAR - FAMILY FUN[/COLOR]</title>
     <thumbnail>https://i.imgur.com/family-fun.png</thumbnail>
     <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
     <info>Entretenimiento perfecto para reuniones familiares, celebraciones y momentos especiales. Contenido apropiado para todas las edades. Perfect entertainment for family gatherings and special moments.</info>
@@ -29,7 +29,7 @@
   
   <!-- CARACTERÍSTICAS -->
   <item>
-    <title>[COLOR cyan]⭐ CARACTERÍSTICAS - FEATURES[/COLOR]</title>
+    <title>[COLOR cyan] CARACTERÍSTICAS - FEATURES[/COLOR]</title>
     <thumbnail>https://i.imgur.com/features-karaoke.png</thumbnail>
     <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
     <info>Miles de canciones, música española e internacional, diferentes géneros, categorías especiales, actualizaciones regulares. Thousands of songs, Spanish and international music, various genres.</info>
@@ -47,7 +47,7 @@
   
   <!-- INSTRUCCIONES -->
   <item>
-    <title>[COLOR yellow]📖 CÓMO USAR - HOW TO USE[/COLOR]</title>
+    <title>[COLOR yellow] CÓMO USAR - HOW TO USE[/COLOR]</title>
     <thumbnail>https://i.imgur.com/instructions.png</thumbnail>
     <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
     <info>Guía simple para usar el addon. Interfaz fácil e intuitiva para toda la familia. Simple guide to use the addon. Easy and intuitive interface for the whole family.</info>
@@ -56,7 +56,7 @@
   
   <!-- MENSAJE ESPECIAL -->
   <item>
-    <title>[COLOR magenta]💝 MENSAJE ESPECIAL - SPECIAL MESSAGE[/COLOR]</title>
+    <title>[COLOR magenta] MENSAJE ESPECIAL - SPECIAL MESSAGE[/COLOR]</title>
     <thumbnail>https://i.imgur.com/special-message.png</thumbnail>
     <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
     <info>"La música une corazones y las familias que cantan juntas, permanecen juntas. ¡Que cada canción sea una sonrisa compartida!" - "Music unites hearts and families that sing together, stay together."</info>
@@ -74,7 +74,7 @@
   
   <!-- COMENZAR A CANTAR -->
   <item>
-    <title>[COLOR red]🎵 ¡COMENZAR A CANTAR! - START SINGING! 🎵[/COLOR]</title>
+    <title>[COLOR red] ¡COMENZAR A CANTAR! - START SINGING! [/COLOR]</title>
     <thumbnail>https://i.imgur.com/start-singing.png</thumbnail>
     <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAA H60/HbRlDvZZlbU/s1600/musicas.png</fanart>
     <info>¡Listo para comenzar! Selecciona tu categoría favorita y disfruta cantando en familia. Ready to start! Select your favorite category and enjoy singing with family.</info>
@@ -83,10 +83,10 @@
   
   <!-- CRÉDITOS -->
   <item>
-    <title>[COLOR silver]© 2025 KARAOKE BONNY - HECHO CON ❤️ PARA LAS FAMILIAS[/COLOR]</title>
+    <title>[COLOR silver]© 2025 KARAOKE BONNY - HECHO CON  PARA LAS FAMILIAS[/COLOR]</title>
     <thumbnail>https://i.imgur.com/credits.png</thumbnail>
     <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
-    <info>© 2025 KARAOKE BONNY - Made with ❤️ for families around the world. Proyecto sin ánimo de lucro dedicado a la diversión familiar.</info>
+    <info>© 2025 KARAOKE BONNY - Made with  for families around the world. Proyecto sin ánimo de lucro dedicado a la diversión familiar.</info>
     <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/creditos.xml</externallink>
   </item>
 </items>
