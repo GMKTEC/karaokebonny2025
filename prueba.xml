@@ -9,10 +9,12 @@
   </item>
   
     <item>
-    <title>[COLOR lime] SOBRE ESTE ADDON - ABOUT THIS ADDON[/COLOR]</title>
-    <thumbnail>https://i.imgur.com/info-addon.png</thumbnail>
+    <title>[COLOR blue]VANESA MARTIN[/COLOR]</title>
+    <thumbnail>http://www.vanesamartin.es/wp-content/uploads/2022/09/Vanesa-Martin-web-scaled.jpg</thumbnail>
     <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
-    <info>Información completa sobre KARAOKE BONNY 2025. Addon gratuito y sin ánimo de lucro diseñado para el entretenimiento familiar en casa. Complete information about our free, non-profit family karaoke addon.</info>
+    <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/vanesamartin.xml</externallink>
+  </item>
+</items>eñado para el entretenimiento familiar en casa. Complete information about our free, non-profit family karaoke addon.</info>
     <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/info.xml</externallink>
   </item>
 </items>
