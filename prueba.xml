@@ -36,3 +36,21 @@
     <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/davidbisbal.xml</externallink>
   </item>
 </items>
+#################################PRUEBAS#################################################################
+<items>
+  <!-- SERVICIOS ONLINE PRINCIPALES -->
+  <item>
+    <title>[COLOR blue]KARAFUN[/COLOR]</title>
+    <thumbnail>https://www.karafun.com/images/karafun-logo.png</thumbnail>
+    <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+    <externallink>https://www.karafun.com/karaoke/</externallink>
+  </item>
+  
+  <item>
+    <title>[COLOR blue]SINGA KARAOKE[/COLOR]</title>
+    <thumbnail>https://singa.com/images/singa-logo.png</thumbnail>
+    <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+    <externallink>https://singa.com/</externallink>
+  </item>
+  
+
