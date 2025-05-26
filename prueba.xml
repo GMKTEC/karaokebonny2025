@@ -1,57 +1,102 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
-    <item>
-    <title>[COLOR gold] BIENVENIDO A KARAOKE BONNY 2025 [/COLOR]</title>
-    <thumbnail>https://i.imgur.com/welcome-karaoke.png</thumbnail>
-    <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
-    <info>¡Bienvenidos a la experiencia de karaoke más completa y divertida para toda la familia! KARAOKE BONNY 2025 es completamente GRATUITO y SIN ÁNIMO DE LUCRO.</info>
-    <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/bienvenida.xml</externallink>
-  </item>
-  
-    <item>
-    <title>[COLOR blue]VANESA MARTIN[/COLOR]</title>
-    <thumbnail>http://www.vanesamartin.es/wp-content/uploads/2022/09/Vanesa-Martin-web-scaled.jpg</thumbnail>
-    <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
-    <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/vanesamartin.xml</externallink>
-  </item>
-  
-  <item>
-    <title>[COLOR blue]INDIA MARTINEZ[/COLOR]</title>
-    <thumbnail>http://www.cadizdiferente.com/wp-content/uploads/2014/05/concierto-india-martinez-cadiz-470x260.png</thumbnail>
-    <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
-    <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/indiamartinez.xml</externallink>
-  </item>
-  
-  <item>
-    <title>[COLOR blue]MANU TENORIO[/COLOR]</title>
-    <thumbnail>https://example.com/manu-tenorio.jpg</thumbnail>
-    <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
-    <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/manutenorio.xml</externallink>
-  </item>
-  
-  <item>
-    <title>[COLOR blue]DAVID BISBAL[/COLOR]</title>
-    <thumbnail>https://example.com/david-bisbal.jpg</thumbnail>
-    <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
-    <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/davidbisbal.xml</externallink>
-  </item>
-</items>
-
-
-
-  <item>
-    <title>[COLOR blue]KARAFUN[/COLOR]</title>
-    <thumbnail>https://www.karafun.com/images/karafun-logo.png</thumbnail>
-    <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
-    <externallink>https://www.karafun.com/karaoke/</externallink>
-  </item>
-
-  
-  <item>
-    <title>[COLOR blue]SINGA KARAOKE[/COLOR]</title>
-    <thumbnail>https://singa.com/images/singa-logo.png</thumbnail>
-    <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
-    <externallink>https://singa.com/</externallink>
-  </items>
-  
-
+    <channel>
+        <name>Julio Iglesias</name>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+        <items>
+            <item>
+                <title>Hey</title>
+                <urlsolve>https://www.youtube.com/watch?v=FR4eMEpbVRw</urlsolve>
+                <thumbnail></thumbnail>
+                <fanart></fanart>
+            </item>
+            <item>
+                <title>POR EL AMOR DE UNA MUJER </title>
+                <urlsolve>https://www.youtube.com/watch?v=yZIhy33GU50</urlsolve>
+                <thumbnail></thumbnail>
+                <fanart></fanart>
+            </item>
+            <item>
+                <title>ABRAZAME </title>
+                <urlsolve>https://www.youtube.com/watch?v=7XJTdF80DUc</urlsolve>
+                <thumbnail></thumbnail>
+                <fanart></fanart>
+            </item>
+            <item>
+                <title>me olvide de vivir</title>
+                <urlsolve>https://www.youtube.com/watch?v=O8Z2bKuKJ5g</urlsolve>
+                <thumbnail></thumbnail>
+                <fanart></fanart>
+            </item>
+            <item>
+                <title>CON LA MISMA PIEDRA</title>
+                <urlsolve>https://www.youtube.com/watch?v=2DovBJSmm7I</urlsolve>
+                <thumbnail></thumbnail>
+                <fanart></fanart>
+            </item>
+            <item>
+                <title>Soy un Señor Julio Iglesias</title>
+                <urlsolve>https://www.youtube.com/watch?v=LiqgFfv_Wio</urlsolve>
+                <thumbnail></thumbnail>
+                <fanart></fanart>
+            </item>
+            <item>
+                <title>Quijote</title>
+                <urlsolve>https://www.youtube.com/watch?v=50OvcYbeC4w</urlsolve>
+                <thumbnail></thumbnail>
+                <fanart></fanart>
+            </item>
+            <item>
+                <title>QUE NO SE ROMPA LA NOCHE</title>
+                <urlsolve>https://www.youtube.com/watch?v=17dZ_82LYi4</urlsolve>
+                <thumbnail></thumbnail>
+                <fanart></fanart>
+            </item>
+            <item>
+                <title>De niña a mujer</title>
+                <urlsolve>https://www.youtube.com/watch?v=HKBLbrVR7Oc</urlsolve>
+                <thumbnail></thumbnail>
+                <fanart></fanart>
+            </item>
+            <item>
+                <title>A Veces Tu, A Veces Yo </title>
+                <urlsolve>https://www.youtube.com/watch?v=CdIZY8KlEqs</urlsolve>
+                <thumbnail></thumbnail>
+                <fanart></fanart>
+            </item>
+            <item>
+                <title>A flor de piel</title>
+                <urlsolve>https://www.youtube.com/watch?v=Rqb_yXVPzpQ</urlsolve>
+                <thumbnail></thumbnail>
+                <fanart></fanart>
+            </item>
+            <item>
+                <title>La vida sigue igual</title>
+                <urlsolve>https://www.youtube.com/watch?v=mTuqBbklssE</urlsolve>
+                <thumbnail></thumbnail>
+                <fanart></fanart>
+            </item>
+            <item>
+                <title>Caminito</title>
+                <urlsolve>https://www.youtube.com/watch?v=QcBh8e58Fw8</urlsolve>
+                <thumbnail></thumbnail>
+                <fanart></fanart>
+            </item>
+        </items>
+    </channel>
+    <channel>
+        <name>Roberto carlos</name>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+        <items>
+            <item>
+                <title>La distancia</title>
+                <urlsolve>https://www.youtube.com/watch?v=nwsh8yFKN74</urlsolve>
+                <thumbnail></thumbnail>
+                <fanart></fanart>
+            </item>
+            <item>
+                <title>LADY LAURA</title>
+                <urlsolve>https://www.youtube.com/watch?v=WlcCHphNvPM</urlsolve>
+    
