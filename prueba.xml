@@ -1,102 +1,19 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <items>
-    <channel>
-        <name>Julio Iglesias</name>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-        <items>
-            <item>
-                <title>Hey</title>
-                <urlsolve>https://www.youtube.com/watch?v=FR4eMEpbVRw</urlsolve>
-                <thumbnail></thumbnail>
-                <fanart></fanart>
-            </item>
-            <item>
-                <title>POR EL AMOR DE UNA MUJER </title>
-                <urlsolve>https://www.youtube.com/watch?v=yZIhy33GU50</urlsolve>
-                <thumbnail></thumbnail>
-                <fanart></fanart>
-            </item>
-            <item>
-                <title>ABRAZAME </title>
-                <urlsolve>https://www.youtube.com/watch?v=7XJTdF80DUc</urlsolve>
-                <thumbnail></thumbnail>
-                <fanart></fanart>
-            </item>
-            <item>
-                <title>me olvide de vivir</title>
-                <urlsolve>https://www.youtube.com/watch?v=O8Z2bKuKJ5g</urlsolve>
-                <thumbnail></thumbnail>
-                <fanart></fanart>
-            </item>
-            <item>
-                <title>CON LA MISMA PIEDRA</title>
-                <urlsolve>https://www.youtube.com/watch?v=2DovBJSmm7I</urlsolve>
-                <thumbnail></thumbnail>
-                <fanart></fanart>
-            </item>
-            <item>
-                <title>Soy un Señor Julio Iglesias</title>
-                <urlsolve>https://www.youtube.com/watch?v=LiqgFfv_Wio</urlsolve>
-                <thumbnail></thumbnail>
-                <fanart></fanart>
-            </item>
-            <item>
-                <title>Quijote</title>
-                <urlsolve>https://www.youtube.com/watch?v=50OvcYbeC4w</urlsolve>
-                <thumbnail></thumbnail>
-                <fanart></fanart>
-            </item>
-            <item>
-                <title>QUE NO SE ROMPA LA NOCHE</title>
-                <urlsolve>https://www.youtube.com/watch?v=17dZ_82LYi4</urlsolve>
-                <thumbnail></thumbnail>
-                <fanart></fanart>
-            </item>
-            <item>
-                <title>De niña a mujer</title>
-                <urlsolve>https://www.youtube.com/watch?v=HKBLbrVR7Oc</urlsolve>
-                <thumbnail></thumbnail>
-                <fanart></fanart>
-            </item>
-            <item>
-                <title>A Veces Tu, A Veces Yo </title>
-                <urlsolve>https://www.youtube.com/watch?v=CdIZY8KlEqs</urlsolve>
-                <thumbnail></thumbnail>
-                <fanart></fanart>
-            </item>
-            <item>
-                <title>A flor de piel</title>
-                <urlsolve>https://www.youtube.com/watch?v=Rqb_yXVPzpQ</urlsolve>
-                <thumbnail></thumbnail>
-                <fanart></fanart>
-            </item>
-            <item>
-                <title>La vida sigue igual</title>
-                <urlsolve>https://www.youtube.com/watch?v=mTuqBbklssE</urlsolve>
-                <thumbnail></thumbnail>
-                <fanart></fanart>
-            </item>
-            <item>
-                <title>Caminito</title>
-                <urlsolve>https://www.youtube.com/watch?v=QcBh8e58Fw8</urlsolve>
-                <thumbnail></thumbnail>
-                <fanart></fanart>
-            </item>
-        </items>
-    </channel>
-    <channel>
-        <name>Roberto carlos</name>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-        <items>
-            <item>
-                <title>La distancia</title>
-                <urlsolve>https://www.youtube.com/watch?v=nwsh8yFKN74</urlsolve>
-                <thumbnail></thumbnail>
-                <fanart></fanart>
-            </item>
-            <item>
-                <title>LADY LAURA</title>
-                <urlsolve>https://www.youtube.com/watch?v=WlcCHphNvPM</urlsolve>
-    
+    <item>
+        <title>[COLOR gold] BIENVENIDO A KARAOKE BONNY 2025 [/COLOR]</title>
+        <thumbnail>https://i.imgur.com/welcome-karaoke.png</thumbnail>
+        <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+        <info>¡Bienvenidos a la experiencia de karaoke más completa y divertida para toda la familia! KARAOKE BONNY 2025 es completamente GRATUITO y SIN ÁNIMO DE LUCRO.</info>
+        <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/bienvenida.xml</externallink>
+    </item>
+
+    <item>
+        <title>[COLOR lime] SOBRE ESTE ADDON - ABOUT THIS ADDON[/COLOR]</title>
+        <thumbnail>https://i.imgur.com/info-addon.png</thumbnail>
+        <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+        <info>Información completa sobre KARAOKE BONNY 2025. Addon gratuito y sin ánimo de lucro diseñado para el entretenimiento familiar en casa. Complete information about our free, non-profit family karaoke addon.</info>
+        <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/info.xml</externallink>
+    </item>
+
+</items>
