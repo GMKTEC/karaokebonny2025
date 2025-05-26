@@ -1,14 +1,1 @@
-<items>
-    <item>
-        <title>Video de Prueba 1</title>
-        <link>https://www.ejemplo.com/video1.mp4</link>
-        <thumbnail>https://www.ejemplo.com/imagen1.jpg</thumbnail>
-        <fanart>https://www.ejemplo.com/fanart1.jpg</fanart>
-    </item>
-    <item>
-        <title>Video de Prueba 2</title>
-        <link>https://www.ejemplo.com/video2.mp4</link>
-        <thumbnail>https://www.ejemplo.com/imagen2.jpg</thumbnail>
-        <fanart>https://www.ejemplo.com/fanart2.jpg</fanart>
-    </item>
-</items>
+
