@@ -10,7 +10,7 @@ import xml.etree.ElementTree as ET # Importa para manejar XML
 # --- Configuración de tu Addon ---
 # Reemplaza esta URL con la URL Raw de tu archivo XML en GitHub
 # ¡Esta es la que me acabas de pasar!
-EXTERNAL_MENU_URL = "EXTERNAL_MENU_URL = "https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/bienvenida.xml""
+EXTERNAL_MENU_URL =  "https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/bienvenida.xml"
 
 class KaraokeAddon:
     def __init__(self):
