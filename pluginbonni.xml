@@ -3,30 +3,3 @@
 <channel>
   <title>Karaoke Plus 1</title>
   <item>
-    <title>[COLOR red]Canción de Prueba 1[/COLOR]</title>
-    <link>https://www.youtube.com/watch?v=XXXXXXXXXXX</link>
-  </item>
-  <item>
-    <title>[COLOR green]Canción de Prueba 2[/COLOR]</title>
-    <link>https://www.youtube.com/watch?v=YYYYYYYYYYY</link>
-  </item>
-</channel>
-
-Mister bin ( Bonifacio51), [17/05/2025 22:42]
-<?xml version="1.0" encoding="UTF-8"?>
-<channel>
-  <title>BONNY Karaoke 2025</title>
-  <item>
-    <title>Karaoke Plus 1</title>
-    <link>https://www.dropbox.com/s/tu_carpeta/index1.xml?dl=1</link>
-  </item>
-  <item>
-    <title>Karaoke Plus 2</title>
-    <link>https://www.dropbox.com/s/tu_carpeta/index2.xml?dl=1</link>
-  </item>
-  <item>
-    <title>FAMYLY KARAOKE</title>
-    <link>https://www.dropbox.com/s/tu_carpeta/index3.xml?dl=1</link>
-  </item>
-  <!-- Añade más categorías aquí -->
-</channel>
