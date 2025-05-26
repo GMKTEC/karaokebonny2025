@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.karaokebonny" 
+       name="karaoke-bonny" 
+       version="1.0.0" 
+       provider-name="bonny">
+  
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests" version="2.25.1"/>
+  </requires>
+  
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">Home Karaoke Addon for Kodi</summary>
+    <summary lang="es_ES">Addon de Karaoke Casero para Kodi</summary>
+    
+    <description lang="en_GB">
+      A home karaoke addon that allows you to search, play and organize karaoke songs.
+      Features include:
+      - Search by artist or song title
+      - Browse by music genres
+      - Favorites management
+      - Popular songs section
+      
+      For hobby use only, no commercial purposes.
+    </description>
+    
+    <description lang="es_ES">
+      Un addon de karaoke casero que te permite buscar, reproducir y organizar canciones de karaoke.
+      Características incluyen:
+      - Búsqueda por artista o título de canción
+      - Navegación por géneros musicales
+      - Gestión de favoritos
+      - Sección de canciones populares
+      
+      Solo para uso de hobby, sin propósitos comerciales.
+    </description>
+    
+    <disclaimer lang="en_GB">
+      This addon is for educational and hobby purposes only. 
+      Users are responsible for the content they access.
+    </disclaimer>
+    
+    <disclaimer lang="es_ES">
+      Este addon es solo para propósitos educativos y de hobby.
+      Los usuarios son responsables del contenido al que acceden.
+    </disclaimer>
+    
+    <platform>all</platform>
+    <license>GPL-3.0</license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+    
+    <assets>
+      <icon>resources/icon.png</icon>
+      <fanart>resources/fanart.jpg</fanart>
+    </assets>
+    
+    <news>
+      v1.0.0 - Initial release
+      - Basic karaoke functionality
+      - Search capabilities
+      - Favorites system
+      - Genre browsing
+    </news>
+  </extension>
+</addon>

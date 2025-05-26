@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings version="1">
+  
+  <!-- Configuración General -->
+  <category id="general" label="32001">
+    
+    <group id="1" label="32010">
+      <setting id="default_quality" type="select" label="32011" default="720p">
+        <constraints>
+          <options>
+            <option label="480p">480p</option>
+            <option label="720p">720p</option>
+            <option label="1080p">1080p</option>
+          </options>
+        </constraints>
+      </setting>
+      
+      <setting id="auto_play" type="bool" label="32012" default="false"/>
+      
+      <setting id="show_lyrics" type="bool" label="32013" default="true"/>
+      
+      <setting id="max_results" type="number" label="32014" default="50">
+        <constraints>
+          <minimum>10</minimum>
+          <maximum>100</maximum>
+        </constraints>
+      </setting>
+    </group>
+    
+    <group id="2" label="32020">
+      <setting id="cache_enabled" type="bool" label="32021" default="true"/>
+      
+      <setting id="cache_duration" type="number" label="32022" default="24" enable="eq(-1,true)">
+        <constraints>
+          <minimum>1</minimum>
+          <maximum>168</maximum>
+        </constraints>
+      </setting>
+      
+      <setting id="clear_cache" type="action" label="32023" action="RunPlugin(plugin://plugin.video.karaoke.home/?mode=clear_cache)"/>
+    </group>
+    
+  </category>
+  
+  <!-- Configuración de Fuentes -->
+  <category id="sources" label="32002">
+    
+    <group id="3" label="32030">
+      <setting id="primary_source" type="text" label="32031" default=""/>
+      
+      <setting id="backup_source" type="text" label="32032" default=""/>
+      
+      <setting id="source_timeout" type="number" label="32033" default="30">
+        <constraints>
+          <minimum>10</minimum>
+          <maximum>120</maximum>
+        </constraints>
+      </setting>
+    </group>
+    
+    <group id="4" label="32040">
+      <setting id="api_key" type="text" label="32041" default="" option="hidden"/>
+      
+      <setting id="user_agent" type="text" label="32042" default="Kodi Karaoke Addon"/>
+    </group>
+    
+  </category>
+  
+  <!-- Configuración de Interface -->
+  <category id="interface" label="32003">
+    
+    <group id="5" label="32050">
+      <setting id="show_thumbnails" type="bool" label="32051" default="true"/>
+      
+      <setting id="grid_view" type="bool" label="32052" default="false"/>
+      
+      <setting id="sort_method" type="select" label="32053" default="title">
+        <constraints>
+          <options>
+            <option label="32054">title</option>
+            <option label="32055">artist</option>
+            <option label="32056">date</option>
+            <option label="32057">popularity</option>
+          </options>
+        </constraints>
+      </setting>
+    </group>
+    
+    <group id="6" label="32060">
+      <setting id="enable_notifications" type="bool" label="32061" default="true"/>
+      
+      <setting id="notification_duration" type="number" label="32062" default="5" enable="eq(-1,true)">
+        <constraints>
+          <minimum>1</minimum>
+          <maximum>15</maximum>
+        </constraints>
+      </setting>
+      
+      <setting id="debug_logging" type="bool" label="32063" default="false"/>
+    </group>
+    
+  </category>
+  
+  <!-- Configuración Avanzada -->
+  <category id="advanced" label="32004">
+    
+    <group id="7" label="32070">
+      <setting id="connection_timeout" type="number" label="32071" default="30">
+        <constraints>
+          <minimum>10</minimum>
+          <maximum>120</maximum>
+        </constraints>
+      </setting>
+      
+      <setting id="retry_attempts" type="number" label="32072" default="3">
+        <constraints>
+          <minimum>1</minimum>
+          <maximum>10</maximum>
+        </constraints>
+      </setting>
+      
+      <setting id="buffer_size" type="select" label="32073" default="medium">
+        <constraints>
+          <options>
+            <option label="32074">small</option>
+            <option label="32075">medium</option>
+            <option label="32076">large</option>
+          </options>
+        </constraints>
+      </setting>
+    </group>
+    
+    <group id="8" label="32080">
+      <setting id="reset_settings" type="action" label="32081" action="RunPlugin(plugin://plugin.video.karaoke.home/?mode=reset_settings)"/>
+      
+      <setting id="export_favorites" type="action" label="32082" action="RunPlugin(plugin://plugin.video.karaoke.home/?mode=export_favorites)"/>
+      
+      <setting id="import_favorites" type="action" label="32083" action="RunPlugin(plugin://plugin.video.karaoke.home/?mode=import_favorites)"/>
+    </group>
+    
+  </category>
+  
+</settings>
