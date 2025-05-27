@@ -1,16 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
-    <channel>
-        <name>VANESA MARTIN</name>
-        <thumbnail>https://ejemplo.com/vanesa_martin_thumbnail.jpg</thumbnail>
-        <fanart>https://ejemplo.com/vanesa_martin_fanart.jpg</fanart>
-        <items>
-            <item>
-                <title>complicidad</title>
-                <url>http://www.youtube.com/watch?v=ItV5bcsmPr8</url>
-                <thumbnail>https://ejemplo.com/vanesa_martin_complicidad_thumbnail.jpg</thumbnail>
-                <fanart>https://ejemplo.com/vanesa_martin_complicidad_fanart.jpg</fanart>
-            </item>
-        </items>
-    </channel>
+  <channel>
+    <name>VANESA MARTIN</name>
+    <thumbnail>...</thumbnail>
+    <fanart>...</fanart>
+    <items>
+      <item>
+        <title>complicidad</title>
+        <url>http://www.youtube.com/watch?v=ItV5bcsmPr8</url>
+        <thumbnail>...</thumbnail>
+        <fanart>...</fanart>
+      </item>
+    </items>
+  </channel>
 </channels>
