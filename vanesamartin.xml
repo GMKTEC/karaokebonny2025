@@ -1,1 +1,23 @@
-
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+    <channel>
+        <title>Vanesa Martín</title>
+        <thumbnail>http://www.vanesamartin.es/wp-content/uploads/2022/09/Vanesa-Martin-web-scaled.jpg</thumbnail>
+        <fanart>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/vanesa_martin_fanart.jpg</fanart>
+        <info>Colección de canciones de Vanesa Martín.</info>
+        <items>
+            <item>
+                <title>Complicidad</title>
+                <url>ItV5bcsmPr8</url> <info>Canción "Complicidad" de Vanesa Martín.</info>
+            </item>
+            <item>
+                <title>Polvo de Mariposas</title>
+                <url>OtroIDdeYouTube</url> <info>Canción "Polvo de Mariposas" de Vanesa Martín.</info>
+            </item>
+            <item>
+                <title>Te has lucido</title>
+                <url>IDdeYouTubeParaTeHasLucido</url> <info>Canción "Te has lucido" de Vanesa Martín.</info>
+            </item>
+            </items>
+    </channel>
+</channels>
