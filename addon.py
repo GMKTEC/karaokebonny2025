@@ -1,4 +1,3 @@
-
 import sys
 import urllib.parse
 import xbmcgui
@@ -131,29 +130,34 @@ class KaraokeAddon:
                     self.log(f"Advertencia: externallink '{externallink}' no es un XML y no tiene acción definida.", xbmc.LOGWARNING)
                     url_to_add = '' 
             elif url_video_audio:
-                # Si es una URL de video/audio (como las de YouTube en cumbias.xml)
                 is_folder = False # No es una carpeta
+                url_to_add = '' # Inicializar
+
+                # ASUMIMOS que url_video_audio ahora contiene directamente el ID de YouTube (11 caracteres)
+                # o una URL COMPLETA de YouTube.
+
+                # Intentamos extraer el ID de YouTube de cualquier formato.
+                # Esta expresión regular es más robusta y captura el ID tanto de URLs estándar
+                # como si directamente le pasamos el ID.
+                video_id_match = re.search(r'(?:v=|youtu\.be/|embed/|)([a-zA-Z0-9_-]{11})', url_video_audio)
                 
-                # Lógica para URLs de YouTube (usando el addon oficial de YouTube)
-                if 'youtube.com' in url_video_audio or 'youtu.be' in url_video_audio:
-                    # Extraer el ID del video de YouTube
-                    video_id_match = re.search(r'(?:v=|youtu\.be/|embed/)([a-zA-Z0-9_-]{11})', url_video_audio)
-                    if video_id_match:
-                        video_id = video_id_match.group(1)
-                        # Construir la URL para el addon de YouTube
+                if video_id_match:
+                    video_id = video_id_match.group(1)
+                    # Aseguramos que solo usamos el ID si es de 11 caracteres
+                    if len(video_id) == 11:
                         url_to_add = f"plugin://plugin.video.youtube/play/?video_id={video_id}"
-                        # Marcar como reproducible
-                        list_item.setProperty('IsPlayable', 'true') 
-                        self.log(f"URL de YouTube detectada y convertida: {url_to_add}")
+                        list_item.setProperty('IsPlayable', 'true')
+                        self.log(f"ID de YouTube detectado y convertido: {url_to_add}")
                     else:
-                        self.log(f"Advertencia: No se pudo extraer el ID de video de YouTube de: {url_video_audio}", xbmc.LOGWARNING)
-                        url_to_add = '' 
+                        self.log(f"Advertencia: El ID extraído '{video_id}' no es un ID de YouTube válido (11 caracteres). URL: {url_video_audio}", xbmc.LOGWARNING)
+                        url_to_add = '' # No se puede reproducir con el plugin de YouTube
                 else:
-                    # Si es una URL directa de video/audio que Kodi puede reproducir (ej. .mp4, .mkv, etc.)
+                    # Si no es un ID de YouTube ni una URL de YouTube, se asume que es una URL directa reproducible por Kodi
+                    # y la pasamos tal cual. (Esto cubre MP4, etc. si los tuvieras)
                     url_to_add = url_video_audio
-                    # Marcar como reproducible
-                    list_item.setProperty('IsPlayable', 'true') 
+                    list_item.setProperty('IsPlayable', 'true')
                     self.log(f"URL directa de video/audio detectada: {url_to_add}")
+
             else:
                 # Si no tiene ni externallink ni url_video_audio, no es navegable ni reproducible
                 self.log(f"Advertencia: Ítem '{title}' no tiene externallink ni url de video/audio.", xbmc.LOGWARNING)
