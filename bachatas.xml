@@ -1,108 +1,99 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
 <channels>
- <channel>
-<title>PRINCE ROCYE</title>
-<thumbnail>https://payhip.com/cdn-cgi/image/format=auto/https://pe56d.s3.amazonaws.com/o_1i5a14cevu96kh414ks10p61tbd10.png</thumbnail>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE6CUc0PypUMZ3v1-Z5i9touFzn7FyWHdKZQ&amp;s</fanart>
-<items>
+    <channel>
+        <name>PRINCE ROYCE</name> <thumbnail>https://payhip.com/cdn-cgi/image/format=auto/https://pe56d.s3.amazonaws.com/o_1i5a14cevu96kh414ks10p61tbd10.png</thumbnail>
+        <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE6CUc0PypUMZ3v1-Z5i9touFzn7FyWHdKZQ&amp;s</fanart>
+        <info>Colección de canciones de Prince Royce.</info> <items>
+            <item>
+                <title>Darte Un Beso</title>
+                <url>EhZetKXl3BI</url>
+                <info>Colección de canciones de Prince Royce.</info>
+                <thumbnail>https://i.ytimg.com/vi/6MT7_Ts-qTc/maxresdefault.jpg</thumbnail>
+                <fanart>https://pics.filmaffinity.com/prince_royce_darte_un_beso-995677315-large.jpg</fanart>
+            </item>
+            <item>
+                <title>Mi Ultima Carta</title>
+                <url>EM573RWkL0k</url>
+                <info>Colección de canciones de Prince Royce.</info>
+                <thumbnail>https://i.ytimg.com/vi/_VqUoyT1C9U/hqdefault.jpg</thumbnail>
+                <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpfAffaKcH4IMYPp-zWd-1zuOCnd4sXz-1Jg&amp;s</fanart>
+            </item>
+            <item>
+                <title>Prince Royce, Shakira - Deja vu</title>
+                <url>0G_5GBl5x9o</url>
+                <info>Colección de canciones de Prince Royce.</info>
+                <thumbnail>https://i.ytimg.com/vi/0G_5GBl5x9o/maxresdefault.jpg</thumbnail>
+                <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrCQDO-5nTcdXlqV63cRKgzH_wX-JJYJDl2wa&amp;mp;s</fanart> </item>
+            </items>
+    </channel>
 
+    <channel>
+        <name>Romeo Santos</name>
+        <thumbnail>https://www.shutterstock.com/image-photo/romeo-santos-concert-his-tour-260nw-2337305021.jpg</thumbnail>
+        <fanart>https://i.pinimg.com/736x/a4/65/04/a4650479cb16aac3a4b178c44ed06ad4.jpg</fanart>
+        <info>Colección de canciones de Romeo Santos.</info>
+        <items>
+            <item>
+                <title>Propuesta indecente</title>
+                <url>cSjmOuUpeEE</url>
+                <info>Colección de canciones de Romeo Santos.</info>
+                <thumbnail>https://i.ytimg.com/vi/JPbTN8CXkzk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&amp;rs=AOn4CLBxV5FNbGcM248Tz_TMHz3hVtfvmA</thumbnail> <fanart>https://i.ytimg.com/vi/VajuCRamOPs/maxresdefault.jpg</fanart>
+            </item>
+            <item>
+                <title>eres mia</title>
+                <url>rPjC0Xa3yQA</url>
+                <info>Colección de canciones de Romeo Santos.</info>
+                <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVJuFq7-9O9KgmYjBcZjOX5U6AadwjCiqD4Aa&amp;s</thumbnail>
+                <fanart>https://ih1.redbubble.net/image.5507984624.3591/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u4.jpg</fanart>
+            </item>
+            <item>
+                <title>Hilito</title>
+                <url>Ou4RHAyXNOE</url>
+                <info>Colección de canciones de Romeo Santos.</info>
+                <thumbnail>https://cdn-images.dzcdn.net/images/cover/008a9b0c51b15861398f4267ce460eff/1900x1900-000000-80-0-0.jpg</thumbnail>
+                <fanart>https://resources.tidal.com/images/61a5e5c8/e12f/481b/a867/64a917d65046/640x640.jpg</fanart>
+            </item>
+            <item>
+                <title>Soberbio</title>
+                <url>g5MAAIBMGtQ</url>
+                <info>Colección de canciones de Romeo Santos.</info>
+                <thumbnail>https://i.ytimg.com/vi/MHY5gvN5kTs/sddefault.jpg</thumbnail>
+                <fanart>https://i.ytimg.com/vi/MHY5gvN5kTs/sddefault.jpg</fanart>
+            </item>
+            </items>
+    </channel>
 
-<item>
-<title>Darte Un Beso</title>
-<url>EhZetKXl3BI</url>
-<thumbnail>https://i.ytimg.com/vi/6MT7_Ts-qTc/maxresdefault.jpg</thumbnail>
-<fanart>https://pics.filmaffinity.com/prince_royce_darte_un_beso-995677315-large.jpg</fanart>
-</item>
-
-<item>
-<title>Mi Ultima Carta</title>        
-<url>EM573RWkL0k</url>
-<thumbnail>https://i.ytimg.com/vi/_VqUoyT1C9U/hqdefault.jpg</thumbnail>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpfAffaKcH4IMYPp-zWd-1zuOCnd4sXz-1Jga&mp;s</fanart>
-</item>
-
-<item>
-<title>Prince Royce, Shakira - Deja vu</title>        
-<url>0G_5GBl5x9o</url>
-<thumbnail>https://i.ytimg.com/vi/0G_5GBl5x9o/maxresdefault.jpg</thumbnail>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrCQDO-5nTcdXlqV63cRKgzH_wX-JJYJDl2w&amp;s</fanart>
-</item>
-
-<channels>
-
-
-<channel>
-<name>Romeo Santos</name>
-<thumbnail>https://www.shutterstock.com/image-photo/romeo-santos-concert-his-tour-260nw-2337305021.jpg</thumbnail>
-<fanart>https://i.pinimg.com/736x/a4/65/04/a4650479cb16aac3a4b178c44ed06ad4.jpg</fanart>
-<items>
-
-<item>
-<title>Propuesta indecente</title>        
-<url>cSjmOuUpeEE</url>
-<thumbnail>https://i.ytimg.com/vi/JPbTN8CXkzk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&amp;rs=AOn4CLBxV5FNbGcM248Tz_TMHz3hVtfvmA</thumbnail>
-<fanart>https://i.ytimg.com/vi/VajuCRamOPs/maxresdefault.jpg</fanart>
-</item>
-
-<item>
-<title>eres mia</title>        
-<url>rPjC0Xa3yQA</url>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVJuFq7-9O9KgmYjBcZjOX5U6AadwjCiqD4A&amp;s</thumbnail>
-<fanart>https://ih1.redbubble.net/image.5507984624.3591/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u4.jpg</fanart>
-</item>
-
-<item>
-<title>Hilito</title>        
-<url>Ou4RHAyXNOE</url>
-<thumbnail>https://cdn-images.dzcdn.net/images/cover/008a9b0c51b15861398f4267ce460eff/1900x1900-000000-80-0-0.jpg</thumbnail>
-<fanart>https://resources.tidal.com/images/61a5e5c8/e12f/481b/a867/64a917d65046/640x640.jpg</fanart>
-</item>
-
-<item>
-<title>Soberbio</title>        
-<url>g5MAAIBMGtQ</url>
-<thumbnail>https://i.ytimg.com/vi/MHY5gvN5kTs/sddefault.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/MHY5gvN5kTs/sddefault.jpg</fanart>
-</item>
-
-</items>
-</channel>
-
-<channel>
-<name>JORGE MOREL</name>
-<thumbnail>https://d3e6ckxkrs5ntg.cloudfront.net/artists/images/1326977/original/resize:671x600/crop:x0y29w397h298/aspect:1.0/hash:1467143207/1-Front_1297854267.jpg?1467143207</thumbnail>
-<fanart>https://i.pinimg.com/736x/a4/65/04/a4650479cb16aac3a4b178c44ed06ad4.jpg</fanart>
-<items>
-
-<item>
-<title>Historia Entre tus Dedos</title>        
-<url>6Kbt22h6TtM</url>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Bachata en Fukuoka</title>        
-<url>7J6McScWGMA</url>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<title>La Guagua</title>        
-<url>zgsP_eVd41s</url>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Mi bendicion</title>        
-<url>eYH9bjsnhmg</url> 
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<items>
-</channel>
-
+    <channel>
+        <name>JORGE MOREL</name>
+        <thumbnail>https://d3e6ckxkrs5ntg.cloudfront.net/artists/images/1326977/original/resize:671x600/crop:x0y29w397h298/aspect:1.0/hash:1467143207/1-Front_1297854267.jpg?1467143207</thumbnail>
+        <fanart>https://i.pinimg.com/736x/a4/65/04/a4650479cb16aac3a4b178c44ed06ad4.jpg</fanart>
+        <info>Colección de canciones de Jorge Morel.</info>
+        <items>
+            <item>
+                <title>Historia Entre tus Dedos</title>
+                <url>6Kbt22h6TtM</url>
+                <info>Colección de canciones de Jorge Morel.</info>
+                <thumbnail></thumbnail> <fanart></fanart> </item>
+            <item>
+                <title>Bachata en Fukuoka</title>
+                <url>7J6McScWGMA</url>
+                <info>Colección de canciones de Jorge Morel.</info>
+                <thumbnail></thumbnail>
+                <fanart></fanart>
+            </item>
+            <item>
+                <title>La Guagua</title> <url>zgsP_eVd41s</url>
+                <info>Colección de canciones de Jorge Morel.</info>
+                <thumbnail></thumbnail>
+                <fanart></fanart>
+            </item>
+            <item>
+                <title>Mi bendicion</title>
+                <url>eYH9bjsnhmg</url>
+                <info>Colección de canciones de Jorge Morel.</info>
+                <thumbnail></thumbnail>
+                <fanart></fanart>
+            </item>
+            </items>
+    </channel>
 </channels>
