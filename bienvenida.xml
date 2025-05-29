@@ -1,1 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item>
+    <title>[COLOR gold] BIENVENIDO A KARAOKE BONNY 2025 [/COLOR]</title>
+    <thumbnail>https://i.imgur.com/welcome-karaoke.png</thumbnail>
+    <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+    <info>¡Bienvenidos a la experiencia de karaoke más completa y divertida para toda la familia! KARAOKE BONNY 2025 es completamente GRATUITO y SIN ÁNIMO DE LUCRO.</info>
+    <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/bienvenida.xml</externallink>
+  </item>
+  
+    <item>
+    <title>[COLOR blue]VANESA MARTIN[/COLOR]</title>
+    <thumbnail>http://www.vanesamartin.es/wp-content/uploads/2022/09/Vanesa-Martin-web-scaled.jpg</thumbnail>
+    <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+    <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/vanesamartin.xml</externallink>
+  </item>
+  
+  <item>
+    <title>[COLOR blue]INDIA MARTINEZ[/COLOR]</title>
+    <thumbnail>http://www.cadizdiferente.com/wp-content/uploads/2014/05/concierto-india-martinez-cadiz-470x260.png</thumbnail>
+    <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+    <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/indiamartinez.xml</externallink>
+  </item>
+  
+  <item>
+    <title>[COLOR blue]MANU TENORIO[/COLOR]</title>
+    <thumbnail>https://example.com/manu-tenorio.jpg</thumbnail>
+    <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+    <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/manutenorio.xml</externallink>
+  </item>
+  
+  <item>
+    <title>[COLOR blue]DAVID BISBAL[/COLOR]</title>
+    <thumbnail>https://example.com/david-bisbal.jpg</thumbnail>
+    <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+    <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/davidbisbal.xml</externallink>
+  </item>
+</items>
 
