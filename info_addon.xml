@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+    <item>
+        <title>[COLOR magenta]🎮 FUNCIONES DE JUEGO[/COLOR]</title>
+        <info>Juegos interactivos para poner a prueba tus conocimientos musicales.</info>
+        <thumbnail>https://cdn.jsdelivr.net/gh/GMKTEC/karaokebonny2025@main/icons/section/juegos_section.jpg</thumbnail>
+        <fanart>https://cdn.jsdelivr.net/gh/GMKTEC/karaokebonny2025@main/fanart/section_juegos.jpg</fanart>
+        <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/juegos/juegos_menu.xml</externallink>
+    </item>
+
+    <item>
+        <title>[COLOR lightblue]🧭 NAVEGACIÓN MEJORADA[/COLOR]</title>
+        <info>Encuentra tus canciones más fácilmente con filtros y búsqueda.</info>
+        <thumbnail>https://cdn.jsdelivr.net/gh/GMKTEC/karaokebonny2025@main/icons/section/navegacion_section.jpg</thumbnail>
+        <fanart>https://cdn.jsdelivr.net/gh/GMKTEC/karaokebonny2025@main/fanart/section_navegacion.jpg</fanart>
+        <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/navegacion/navegacion_menu.xml</externallink>
+    </item>
+
+    <item>
+        <title>[COLOR yellow]⭐ EXPERIENCIA DE USUARIO[/COLOR]</title>
+        <info>Envíanos tus ideas, valora el addon y contacta con soporte.</info>
+        <thumbnail>https://cdn.jsdelivr.net/gh/GMKTEC/karaokebonny2025@main/icons/section/experiencia_section.jpg</thumbnail>
+        <fanart>https://cdn.jsdelivr.net/gh/GMKTEC/karaokebonny2025@main/fanart/section_experiencia.jpg</fanart>
+        <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/usuario/usuario_menu.xml</externallink>
+    </item>
+
+    <item>
+        <title>[COLOR purple]🛠️ MANTENIMIENTO Y ACTUALIZACIONES[/COLOR]</title>
+        <info>Información sobre el desarrollo y actualizaciones del addon.</info>
+        <thumbnail>https://cdn.jsdelivr.net/gh/GMKTEC/karaokebonny2025@main/icons/admin/mantenimiento.jpg</thumbnail>
+        <fanart>https://cdn.jsdelivr.net/gh/GMKTEC/karaokebonny2025@main/fanart/admin_mantenimiento.jpg</fanart>
+        <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/admin/mantenimiento_menu.xml</externallink>
+    </item>
+
+    <item>
+        <title>[COLOR blue]📊 ESTADÍSTICAS KARAOKE BONNY 2025[/COLOR][/title>
+        <info>📈 Artistas: 50+ | 🎵 Canciones: 2,500+ | 📅 Última actualización: 24/05/2025 | 👥 Usuarios activos: Creciendo</info>
+        <thumbnail>https://cdn.jsdelivr.net/gh/GMKTEC/karaokebonny2025@main/icons/info/estadisticas.jpg</thumbnail>
+        <fanart>https://cdn.jsdelivr.net/gh/GMKTEC/karaokebonny2025@main/fanart/estadisticas_bonny.jpg</fanart>
+        <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/info/estadisticas.xml</externallink>
+    </item>
+
+    <item>
+        <title>[COLOR silver]⚖️ AVISO LEGAL COMPLETO[/COLOR]</title>
+        <info>Este addon es 100% gratuito y sin ánimo de lucro. Todo el contenido está destinado exclusivamente para uso doméstico y entretenimiento familiar. Respetamos todos los derechos de autor y normativas vigentes. No nos hacemos responsable del uso indebido del contenido.</info>
+        <thumbnail>https://cdn.jsdelivr.net/gh/GMKTEC/karaokebonny2025@main/icons/info/legal.jpg</thumbnail>
+        <fanart>https://cdn.jsdelivr.net/gh/GMKTEC/karaokebonny2025@main/fanart/aviso_legal.jpg</fanart>
+        <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/info/legal.xml</externallink>
+    </item>
+
+    <item>
+        <title>[COLOR cyan]🔗 PLATAFORMAS Y SOFTWARE RECOMENDADO[/COLOR]</title>
+        <info>Accede a servicios de karaoke online y software compatible para tu diversión.</info>
+        <thumbnail>https://cdn.jsdelivr.net/gh/GMKTEC/karaokebonny2025@main/icons/recursos/plataformas.jpg</thumbnail>
+        <fanart>https://cdn.jsdelivr.net/gh/GMKTEC/karaokebonny2025@main/fanart/recursos_plataformas.jpg</fanart>
+        <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/recursos/plataformas_y_software.xml</externallink>
+    </item>
+
+</items>

@@ -1,0 +1,61 @@
+
+<?xml <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+    <channel>
+        <name>KARAOKE BONNY 2025 - Dúo Yony Bonny</name>
+        <description>
+            [COLOR yellow]KARAOKE BONNY 2025: Tu escenario virtual. Un proyecto creado con pasión por Bonny y su amigo Yony (el "amigo chinito virtual"). Diseñado para compartir la alegría de la música sin ánimo de lucro, solo por diversión y entretenimiento. ¡La música no para!
+            [COLOR white]-----------
+            [COLOR yellow]KARAOKE BONNY 2025: Your virtual stage. A project created with passion by Bonny and his friend Yony (the "virtual Chinese friend"). Designed to share the joy of music on a non-profit basis, just for fun and entertainment. The music never stops![/COLOR]
+        </description>
+        <thumbnail>https://cdn.jsdelivr.net/gh/GMKTEC/karaokebonny2025@main/icons/bonny_logo_principal.jpg</thumbnail> <fanart>https://cdn.jsdelivr.net/gh/GMKTEC/karaokebonny2025@main/fanart/bonny_fanart_principal.jpg</fanart> <items>
+            <item>
+                <title>[COLOR gold]?? EMPEZAR AQUÍ: BIENVENIDA E INFO[/COLOR]</title>
+                <info>Descubre todo sobre Karaoke Bonny 2025 y cómo empezar a cantar.</info>
+                <thumbnail>https://cdn.jsdelivr.net/gh/GMKTEC/karaokebonny2025@main/icons/bienvenida/start_here.jpg</thumbnail>
+                <fanart>https://cdn.jsdelivr.net/gh/GMKTEC/karaokebonny2025@main/fanart/bienvenida_main.jpg</fanart>
+                <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/bienvenida_y_info.xml</externallink>
+            </item>
+
+            <item>
+                <title>[COLOR green]?? MERENGUES[/COLOR]</title>
+                <info>Los mejores éxitos de merengue para bailar y cantar.</info>
+                <thumbnail>https://cdn.jsdelivr.net/gh/GMKTEC/karaokebonny2025@main/icons/generos/merengues.jpg</thumbnail>
+                <fanart>https://cdn.jsdelivr.net/gh/GMKTEC/karaokebonny2025@main/fanart/generos_merengues.jpg</fanart>
+                <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/generos/merengues.xml</externallink>
+            </item>
+            <item>
+                <title>[COLOR green]?? ARTISTAS[/COLOR]</title>
+                <info>Explora las canciones de tus artistas favoritos.</info>
+                <thumbnail>https://cdn.jsdelivr.net/gh/GMKTEC/karaokebonny2025@main/icons/artistas_generales.jpg</thumbnail>
+                <fanart>https://cdn.jsdelivr.net/gh/GMKTEC/karaokebonny2025@main/fanart/artistas_generales.jpg</fanart>
+                <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/artistas/artistas_menu.xml</externallink>
+            </item>
+
+
+            <item>
+                <title>[COLOR orange]?? INFORMACIÓN Y HERRAMIENTAS[/COLOR]</title>
+                <info>Accede a funciones de juego, navegación, soporte y más sobre el addon.</info>
+                <thumbnail>https://cdn.jsdelivr.net/gh/GMKTEC/karaokebonny2025@main/icons/info_general.jpg</thumbnail>
+                <fanart>https://cdn.jsdelivr.net/gh/GMKTEC/karaokebonny2025@main/fanart/info_general.jpg</fanart>
+                <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/info_addon.xml</externallink>
+            </item>
+
+            <item>
+                <title>[COLOR blue]?? ENLACES EXTERNOS Y RECURSOS[/COLOR]</title>
+                <info>Visita páginas web y plataformas de karaoke recomendadas.</info>
+                <thumbnail>https://cdn.jsdelivr.net/gh/GMKTEC/karaokebonny2025@main/icons/recursos_externos.jpg</thumbnail>
+                <fanart>https://cdn.jsdelivr.net/gh/GMKTEC/karaokebonny2025@main/fanart/recursos_externos.jpg</fanart>
+                <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/recursos/plataformas_y_software.xml</externallink>
+            </item>
+			
+			<item>
+                <title>[COLOR red]? SALIR DEL ADDON[/COLOR]</title>
+                <info>Cierra el addon de Karaoke Bonny 2025.</info>
+                <thumbnail>https://cdn.jsdelivr.net/gh/GMKTEC/karaokebonny2025@main/icons/exit_addon.jpg</thumbnail>
+                <fanart>https://cdn.jsdelivr.net/gh/GMKTEC/karaokebonny2025@main/fanart/exit_addon.jpg</fanart>
+                <link>EXIT</link> </item>
+
+        </items>
+    </channel>
+</channels>
