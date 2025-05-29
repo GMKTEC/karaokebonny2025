@@ -36,10 +36,7 @@
         <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/davidbisbal.xml</externallink>
     </item>
 
-    <item>
-        <title>[COLOR LawunGreen]BIENVENIDO ADDON KARAOKE BY E.S: [COLOR lightblue][B]03[/B][/COLOR] JUNIO 2017[/COLOR]</title>
-        <link>NA</link>
-    </item>
+    
 
     <item>
         <title>[COLOR purple]CUMBIAS[/COLOR]</title>
@@ -223,3 +220,5 @@
         <thumbnail>http://ep01.epimg.net/elpais/imagenes/2016/04/19/estilo/1461068974_957321_1461074128_noticiarelacionadaprincipal_normal.jpg</thumbnail>
         <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
         <externallink>
+	 </item>
+	</items>
