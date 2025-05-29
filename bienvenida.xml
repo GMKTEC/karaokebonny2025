@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+?xml version="1.0" encoding="UTF-8"?>
 <items>
     <item>
         <title>[COLOR gold] BIENVENIDO A KARAOKE BONNY 2025 [/COLOR]</title>
@@ -40,15 +40,14 @@
 
     <item>
         <title>[COLOR purple]CUMBIAS[/COLOR]</title>
-        <link>NA</link>
-        <thumbnail>https://http2.mlstatic.com/S_264311-MLA20542522486_012016-Y.jpg</thumbnail>
+     <thumbnail>https://http2.mlstatic.com/S_264311-MLA20542522486_012016-Y.jpg</thumbnail>
         <fanart>https://i.ytimg.com/vi/lKC9xvadEAY/maxresdefault.jpg</fanart>
         <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/cumbias.xml</externallink>
     </item>
 
+        
     <item>
         <title>[COLOR yellow]MERENGUES[/COLOR]</title>
-        <link>NA</link>
         <thumbnail>https://deepmp3.ru/images/1241522-300x300/merengue-session-karaoke.jpg</thumbnail>
         <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
         <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/merengues.xml</externallink>
@@ -56,7 +55,6 @@
 
     <item>
         <title>[COLOR lime]BACHATAS[/COLOR]</title>
-        <link>NA</link>
         <thumbnail>http://img0029.psstatic.com/98616242_walmartcom-karaoke-lo-mejor-de-la-bachata-2cd-karaoke-.jpg</thumbnail>
         <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
         <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/bachatas.xml</externallink>
@@ -64,7 +62,6 @@
 
     <item>
         <title>[COLOR red]NAVIDAD[/COLOR]</title>
-        <link>NA</link>
         <thumbnail>http://i65.tinypic.com/29ln39u.png</thumbnail>
         <fanart>https://i.ytimg.com/vi/RsW-sPHRTGU/maxresdefault.jpg</fanart>
         <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/navidad.xml</externallink>
@@ -72,7 +69,6 @@
 
     <item>
         <title>[COLOR skyblue]BALADAS[/COLOR]</title>
-        <link>NA</link>
         <thumbnail>http://grupopandora.netfirms.com/MENUDISCOGRAFIAV01/PISTAS/BASEDISCOS/Disco015.jpg</thumbnail>
         <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
         <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/baladas.xml</externallink>
@@ -80,7 +76,6 @@
 
     <item>
         <title>[COLOR orange]POP[/COLOR]</title>
-        <link>NA</link>
         <thumbnail>http://www.terra-melodica.de/images/product_images/info_images/6981_0.jpg</thumbnail>
         <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
         <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/pop.xml</externallink>
@@ -88,7 +83,6 @@
 
     <item>
         <title>[COLOR brown]DUETOS[/COLOR]</title>
-        <link>NA</link>
         <thumbnail>http://i.imgur.com/ntabaQe.jpg</thumbnail>
         <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
         <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/duetos.xml</externallink>
@@ -96,7 +90,6 @@
 
     <item>
         <title>[B][COLOR white]RANCHERAS[/B][/COLOR]</title>
-        <link>NA</link>
         <thumbnail>https://images-eu.ssl-images-amazon.com/images/I/51QKULd7NuL._SS500.jpg</thumbnail>
         <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
         <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/rancheras.xml</externallink>
@@ -104,7 +97,6 @@
 
     <item>
         <title>[COLOR pink]BOLEROS[/COLOR]</title>
-        <link>NA</link>
         <thumbnail>http://www.yoyomusica.com/imagenes/imagenes%20site%20yoyo/dvd/karaoke/boleros.jpg</thumbnail>
         <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
         <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/boleros.xml</externallink>
@@ -112,7 +104,6 @@
 
     <item>
         <title>[COLOR green]VARIADOS[/COLOR]</title>
-        <link>NA</link>
         <thumbnail>http://luismoraledaespectaculos.multiespaciosweb.com/uploads/2013/07/DISCO+61.jpg</thumbnail>
         <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
         <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/variados.xml</externallink>
@@ -120,7 +111,6 @@
 
     <item>
         <title>[COLOR blue]ZONA DE BAILE[/COLOR]</title>
-        <link>NA</link>
         <thumbnail>http://t2.uccdn.com/images/5/9/0/img_beneficios_fisicos_y_emocionales_del_baile_1095_orig.jpg</thumbnail>
         <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
         <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/zonadebaile.xml</externallink>
@@ -128,7 +118,6 @@
 
     <item>
         <title>[COLOR yellow] MIX[/COLOR]</title>
-        <link>NA</link>
         <thumbnail>https://a2ua.com/mix/mix-002.jpg</thumbnail>
         <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
         <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/mix.xml</externallink>
@@ -136,7 +125,6 @@
 
     <item>
         <title>[COLOR red]REGGAETON[/COLOR]</title>
-        <link>NA</link>
         <thumbnail>https://s-media-cache-ak0.pinimg.com/564x/bd/3d/da/bd3dda43daf2bef4ffa98a00c5fa06f5.jpg</thumbnail>
         <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
         <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/reegaeton.xml</externallink>
@@ -144,7 +132,6 @@
 
     <item>
         <title>[COLOR lime]FLAMENCO[/COLOR]</title>
-        <link>NA</link>
         <thumbnail>http://www.flamencoexport.com/photo/productos&2Fcd_s&2Fdvd&2Fflamenco-pop-kara/329x472/flamenco-pop-(karaoke)---(dvd).jpg</thumbnail>
         <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
         <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/flamenco.xml</externallink>
@@ -152,7 +139,6 @@
 
     <item>
         <title>[COLOR skyblue]SEVILLANAS[/COLOR]</title>
-        <link>NA</link>
         <thumbnail>https://sgfm.elcorteingles.es/SGFM/dctm/MEDIA02/CONTENIDOS/201505/29/00105119132891____1__640x640.jpg</thumbnail>
         <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
         <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/sevillanas.xml</externallink>
@@ -160,7 +146,6 @@
 
     <item>
         <title>[COLOR brown]RUMBAS[/COLOR]</title>
-        <link>NA</link>
         <thumbnail>http://darkmp3.ru/imgs/7931550-460x460/spanish-rumba-5-karaoke.jpg</thumbnail>
         <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
         <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/rumbas.xml</externallink>
@@ -168,7 +153,6 @@
 
     <item>
         <title>[COLOR orange]ROCK[/COLOR]</title>
-        <link>NA</link>
         <thumbnail>http://miplanhoy.com/wp-content/uploads/2013/06/1314622545_rok-karaoke.jpg</thumbnail>
         <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
         <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/rock.xml</externallink>
@@ -176,7 +160,6 @@
 
     <item>
         <title>[COLOR skyblue]SALSA[/COLOR]</title>
-        <link>NA</link>
         <thumbnail>http://libu.s3.amazonaws.com/img/120_7706236171158_yoyo.jpg</thumbnail>
         <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
         <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/salsa.xml</externallink>
@@ -184,7 +167,6 @@
 
     <item>
         <title>[COLOR red]PORTUGAL[/COLOR]</title>
-        <link>NA</link>
         <thumbnail>http://electomania.es/wp-content/uploads/2015/10/portugal_640.png</thumbnail>
         <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
         <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/portugal.xml</externallink>
@@ -192,7 +174,6 @@
 
     <item>
         <title>[COLOR skyblue]ALEMANIA[/COLOR]</title>
-        <link>NA</link>
         <thumbnail>http://www.vienayyo.com/wp-content/uploads/2011/03/bandera-alemana-160x160.png</thumbnail>
         <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
         <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/alemania.xml</externallink>
@@ -200,7 +181,6 @@
 
     <item>
         <title>[COLOR orange]INGLATERRA[/COLOR]</title>
-        <link>NA</link>
         <thumbnail>http://ndl.mgccw.com/mu3/app/20140522/08/1400726140829/ss/0_small.png</thumbnail>
         <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
         <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/inglaterra.xml</externallink>
@@ -208,7 +188,6 @@
 
     <item>
         <title>[COLOR brown]JUANLUISGUERRA[/COLOR]</title>
-        <link>NA</link>
         <thumbnail>http://www.flowactivo.com/web/wp-content/uploads/2014/11/juan-luis-guerra-2014.png</thumbnail>
         <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
         <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/juanluisguerra.xml</externallink>
@@ -216,7 +195,6 @@
 
     <item>
         <title>[COLOR brown]ENRIQUEIGLESIAS[/COLOR]</title>
-        <link>NA</link>
         <thumbnail>http://ep01.epimg.net/elpais/imagenes/2016/04/19/estilo/1461068974_957321_1461074128_noticiarelacionadaprincipal_normal.jpg</thumbnail>
         <fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
         <externallink>
