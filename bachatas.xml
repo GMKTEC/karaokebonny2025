@@ -82,7 +82,8 @@
                 <fanart>https://media.istockphoto.com/id/1456806088/es/foto/zapatos-de-baile-de-una-pareja-parejas-bailando-milonga-tradicional-latina-argentina-en-el.jpg?b=1&s=612x612&w=0&k=20&c=4aMc21-_iZJ7SRPCZyjdlCLpxZ_3SAvXJdwxtFoGJ80=</fanart>
             </item>
             <item>
-                <title>La Guagua</title> <url>zgsP_eVd41s</url>
+                <title>La Guagua</title> 
+                <url>zgsP_eVd41s</url>
                 <info>Colección de canciones de Jorge Morel.</info>
                 <thumbnail>https://lens.usercontent.google.com/image?vsrid=CIicpY-VxKvonQEQAhgBIiRmOTNjYzZkOC03OGU2LTRmZTUtYjM0ZS02OTdlNDU3YjUwN2IyBiICbHUoATjO6fOeuNiNAw&gsessionid=Y4axfExjhd-Pn3sHpi6nqfGGRZxgR18xgDEqeJ5gePJVYu4407CarA</thumbnail>
                 <fanart>https://lens.usercontent.google.com/image?vsrid=CIicpY-VxKvonQEQAhgBIiRmOTNjYzZkOC03OGU2LTRmZTUtYjM0ZS02OTdlNDU3YjUwN2IyBiICbHUoATjO6fOeuNiNAw&gsessionid=Y4axfExjhd-Pn3sHpi6nqfGGRZxgR18xgDEqeJ5gePJVYu4407CarA</fanart>
@@ -91,8 +92,8 @@
                 <title>Mi bendicion</title>
                 <url>eYH9bjsnhmg</url>
                 <info>Colección de canciones de Jorge Morel.</info>
-                <thumbnail></thumbnail>
-                <fanart></fanart>
+                <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZNXHRZluCQ0Bc1UYy57EW-MNmC84-ttwtdA&s</thumbnail>
+                <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZNXHRZluCQ0Bc1UYy57EW-MNmC84-ttwtdA&s</fanart>
             </item>
             </items>
     </channel>
