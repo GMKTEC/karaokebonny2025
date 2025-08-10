@@ -10,13 +10,7 @@ import re
 
 # --- Configuración de tu Addon ---
 EXTERNAL_MENU_URL = "https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/bienvenida.xml"
-
-# --- NUEVO CÓDIGO para la intro ---
-def show_intro_message():
-    """Muestra un mensaje de bienvenida una sola vez al abrir el addon."""
-    addon = xbmcaddon.Addon()
-    addon_name = addon.getAddonInfo('name')
-    xbmcgui.Dialog().ok(addon_name, "[COLOR gold]Hola, familia, bienvenidos a nuestro karaoke[/COLOR]")
+INTRO_VIDEO_URL = "https://www.youtube.com/watch?v=TjycZ8xMmDk"
 
 class KaraokeAddon:
     def init(self):
@@ -65,17 +59,24 @@ class KaraokeAddon:
             return []
         return parsed_items
 
+def play_intro_video():
+    """Reproduce el video de intro."""
+    list_item = xbmcgui.ListItem()
+    list_item.setInfo('video', {'title': 'Intro'})
+    xbmcplugin.setResolvedUrl(int(sys.argv[1]), True, list_item)
+    xbmc.Player().play(INTRO_VIDEO_URL, list_item)
+
 def main():
     addon = KaraokeAddon()
     params = dict(urllib.parse.parse_qsl(sys.argv[2][1:]))
     mode = params.get('mode', 'main')
 
     if mode == 'main':
-        show_intro_message() # <-- ¡Aquí se llama a la función de la intro!
+        play_intro_video()
         items = addon.get_items_from_xml_url(EXTERNAL_MENU_URL)
         addon.add_menu_items(items)
 
     xbmcplugin.endOfDirectory(addon.addon_handle)
 
 if name == 'main':
-    main()
+    main()p
