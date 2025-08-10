@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item>
+        <title>El Quijote de la Mancha</title>
+        <thumbnail>URL de la imagen de la portada del libro</thumbnail>
+        <fanart>URL de la imagen de fondo</fanart>
+        <url>URL del archivo PDF del libro</url>
+    </item>
+
+    <item>
+        <title>La Celestina</title>
+        <thumbnail>URL de la imagen de la portada del libro</thumbnail>
+        <fanart>URL de la imagen de fondo</fanart>
+        <url>URL del archivo PDF del libro</url>
+    </item>
+</items>
