@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item>
+        <title>Para mi Hija</title>
+        <thumbnail>URL de una foto de tu hija</thumbnail>
+        <fanart>URL de una imagen de fondo</fanart>
+        <url>URL de un video o una foto</url>
+    </item>
+
+    <item>
+        <title>Mi Perro Rufo</title>
+        <thumbnail>URL de una foto de Rufo</thumbnail>
+        <fanart>URL de una imagen de fondo</fanart>
+        <url>URL de un video o una foto</url>
+    </item>
+</items>
