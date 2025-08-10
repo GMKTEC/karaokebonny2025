@@ -7,7 +7,30 @@
         <info>¡Bienvenidos a la experiencia de karaoke más completa y divertida para toda la familia! KARAOKE BONNY 2025 es completamente GRATUITO y SIN ÁNIMO DE LUCRO.</info>
         <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/bienvenida.xml</externallink>
     </item>
+ 
+    <item>
+        <title>[COLOR lightblue]ESCUELA INSTRUMENTAL[/COLOR]</title>
+        <thumbnail>URL de la imagen que elijas para la escuela</thumbnail>
+        <fanart>URL de la imagen de fondo</fanart>
+        <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/escuela_instrumental.xml</externallink>
+    </item>
 
+	<item>
+        <title>[COLOR lightgreen]MI BIBLIOTECA[/COLOR]</title>
+        <thumbnail>URL de la imagen que elijas para los libros</thumbnail>
+        <fanart>URL de la imagen de fondo</fanart>
+        <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/libros.xml</externallink>
+    </item>
+
+	<item>
+        <title>[COLOR yellow]MI FAMILIA[/COLOR]</title>
+        <thumbnail>URL de la imagen para tu familia</thumbnail>
+        <fanart>URL de la imagen de fondo</fanart>
+        <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/familia.xml</externallink>
+    </item>
+
+	
+	
     <item>
         <title>[COLOR blue]VANESA MARTIN[/COLOR]</title>
         <thumbnail>http://www.vanesamartin.es/wp-content/uploads/2022/09/Vanesa-Martin-web-scaled.jpg</thumbnail>
@@ -200,3 +223,4 @@
         <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/enriqueiglesias.xml</externallink>
 	 </item>
 	</items>
+
