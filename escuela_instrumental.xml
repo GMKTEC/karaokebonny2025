@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item>
+        <title>Tutorial de Guitarra para principiantes</title>
+        <thumbnail>URL de la imagen del tutorial de guitarra</thumbnail>
+        <fanart>URL de la imagen de fondo</fanart>
+        <url>ID del video de YouTube</url>
+    </item>
+
+    <item>
+        <title>Lección de Trompeta - Escala Mayor</title>
+        <thumbnail>URL de la imagen del tutorial de trompeta</thumbnail>
+        <fanart>URL de la imagen de fondo</fanart>
+        <url>ID del video de YouTube</url>
+    </item>
+</items>
