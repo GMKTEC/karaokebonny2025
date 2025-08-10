@@ -1,27 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
     <item>
-        <title>[COLOR yellow]🎵 La Cumbia del Sol - Artista Ficticio[/COLOR]</title>
-        <info>Una cumbia alegre y pegadiza para bailar.
-        [COLOR white]Autor: Artista Ficticio
-        Año: 2023
-        Duración: 3:45
-        Categoría: Cumbia Pop[/COLOR]</info>
-        <thumbnail>https://cdn.jsdelivr.net/gh/GMKTEC/karaokebonny2025@main/icons/canciones/cumbias/cumbia_del_sol.jpg</thumbnail>
-        <fanart>https://cdn.jsdelivr.net/gh/GMKTEC/karaokebonny2025@main/fanart/canciones/cumbias_fondo.jpg</fanart>
-        <link>https://cdn.jsdelivr.net/gh/GMKTEC/karaokebonny2025@main/karaoke_videos/cumbias/cumbia_del_sol.mp4</link>
+        <title>[COLOR yellow]Mi primer vídeo de Cumbia[/COLOR]</title>
+        <url>https://www.ejemplo.com/videos/micumbialinda.mp4</url>
+        <thumbnail>https://www.ejemplo.com/imagenes/miimagen.jpg</thumbnail>
+        <fanart>https://www.ejemplo.com/fondos/mifondo.jpg</fanart>
     </item>
 
     <item>
-        <title>[COLOR yellow]🎵 Otro Ejemplo de Cumbia - Artista X[/COLOR]</title>
-        <info>Descripción de la canción...
-        [COLOR white]Autor: Artista X
-        Año: 2022
-        Duración: 4:10
-        Categoría: Cumbia Tradicional[/COLOR]</info>
-        <thumbnail>https://cdn.jsdelivr.net/gh/GMKTEC/karaokebonny2025@main/icons/canciones/cumbias/cumbia_ejemplo2.jpg</thumbnail>
-        <fanart>https://cdn.jsdelivr.net/gh/GMKTEC/karaokebonny2025@main/fanart/canciones/cumbias_fondo.jpg</fanart>
-        <link>https://cdn.jsdelivr.net/gh/GMKTEC/karaokebonny2025@main/karaoke_videos/cumbias/cumbia_ejemplo2.mp4</link>
+        <title>[COLOR lightblue]Otro vídeo de Cumbia[/COLOR]</title>
+        <url>https://www.ejemplo.com/videos/otracumbia.mp4</url>
+        <thumbnail>https://www.ejemplo.com/imagenes/otraimagen.jpg</thumbnail>
+        <fanart>https://www.ejemplo.com/fondos/otrafondo.jpg</fanart>
     </item>
 
-    </items>
+</items>
