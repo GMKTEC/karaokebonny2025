@@ -52,23 +52,6 @@
 
    
 
-	<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<items>
-    <item>
-        <title>Mis Películas</title>
-        <externallink>mode=browse_local&amp;content_type=movies</externallink>
-        <thumbnail>DefaultMovies.png</thumbnail>
-    </item>
-    <item>
-        <title>Mis Series</title>
-        <externallink>mode=browse_local&amp;content_type=tvshows</externallink>
-        <thumbnail>DefaultTVShows.png</thumbnail>
-    </item>
-    <item>
-        <title>Buscar en YouTube...</title>
-        <link>?mode=search_youtube</link>
-
-
 	
     <item>
         <title>[COLOR blue]VANESA MARTIN[/COLOR]</title>
@@ -262,6 +245,7 @@
         <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/enriqueiglesias.xml</externallink>
 	 </item>
 	</items>
+
 
 
 
