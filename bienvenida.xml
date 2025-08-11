@@ -10,8 +10,8 @@
  
     <item>
         <title>[COLOR lightblue]ESCUELA INSTRUMENTAL[/COLOR]</title>
-        <thumbnail>URL de la imagen que elijas para la escuela</thumbnail>
-        <fanart>URL de la imagen de fondo</fanart>
+        <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjbkcmhlyzluNI3bHqlfjh3GmljHHF9u7L2Q&s</thumbnail>
+        <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu0iT9GDMICgorVZ5JNWxOwESjXsOZ9MCy6w&s</fanart>
         <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/escuela_instrumental.xml</externallink>
     </item>
 
@@ -222,6 +222,7 @@
         <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/enriqueiglesias.xml</externallink>
 	 </item>
 	</items>
+
 
 
 
