@@ -29,7 +29,23 @@
         <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/familia.xml</externallink>
     </item>
 
-	
+	<!-- Esto va dentro de la etiqueta <items> en tu archivo bienvenida.xml -->
+
+<item>
+    <title>[B]Agenda de Eventos[/B]</title>
+    
+    <!-- Pon aquí las imágenes que quieras para el botón de la agenda -->
+    <thumbnail>https://i.imgur.com/un-icono-de-calendario.png</thumbnail>
+    <fanart>https://i.imgur.com/un-fanart-para-la-agenda.jpg</fanart>
+    
+    <!-- ====================================================== -->
+    <!-- ¡¡ESTA ES LA PARTE MÁS IMPORTANTE!! -->
+    <!-- No apunta a un archivo .xml. -->
+    <!-- Le dice a default.py que ejecute el modo "show_agenda". -->
+    <!-- ====================================================== -->
+    <externallink>mode=show_agenda</externallink>
+</item>
+
 	
     <item>
         <title>[COLOR blue]VANESA MARTIN[/COLOR]</title>
@@ -223,4 +239,5 @@
         <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/enriqueiglesias.xml</externallink>
 	 </item>
 	</items>
+
 
