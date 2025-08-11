@@ -1,0 +1,8 @@
+<!-- Añade esto dentro de la etiqueta <items> en bienvenida.xml -->
+<item>
+    <title>[B]Agenda de Eventos[/B]</title>
+    <thumbnail>https://i.imgur.com/tu_icono_de_agenda.png</thumbnail>
+    <fanart>https://i.imgur.com/tu_fanart_de_agenda.jpg</fanart>
+    <!-- Esto llama a la función de la agenda en tu default.py -->
+    <externallink>mode=show_agenda</externallink>
+</item>
