@@ -50,21 +50,7 @@
 <items>
     <!-- ... tus otros items como "Agenda Completa", "Deportes", etc. ... -->
 
-    <!-- ====================================================== -->
-    <!-- ¡NUEVO BOTÓN PARA BUSCAR EN YOUTUBE! -->
-    <!-- ====================================================== -->
-    <item>
-        <title>[B]Buscar Canción o Video[/B]</title>
-        <!-- Puedes buscar un icono de lupa o de YouTube en Google -->
-        <thumbnail>https://i.imgur.com/un-icono-de-busqueda.png</thumbnail>
-        <fanart>https://i.imgur.com/un-fanart-para-busqueda.jpg</fanart>
-        <!-- Esto llama al nuevo modo 'search_youtube' en nuestro default.py -->
-        <externallink>mode=search_youtube</externallink>
-    </item>
-
-    <!-- ... el resto de tus canales de karaoke ... -->
-</items>
-
+   
 
 	<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
@@ -276,6 +262,7 @@
         <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/enriqueiglesias.xml</externallink>
 	 </item>
 	</items>
+
 
 
 
