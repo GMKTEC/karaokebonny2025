@@ -1,8 +1,36 @@
-<!-- Añade esto dentro de la etiqueta <items> en bienvenida.xml -->
-<item>
-    <title>[B]Agenda de Eventos[/B]</title>
-    <thumbnail>https://i.imgur.com/tu_icono_de_agenda.png</thumbnail>
-    <fanart>https://i.imgur.com/tu_fanart_de_agenda.jpg</fanart>
-    <!-- Esto llama a la función de la agenda en tu default.py -->
-    <externallink>mode=show_agenda</externallink>
-</item>
+<!-- agenda.xml -->
+<items>
+    <!-- Evento de Deporte -->
+    <item>
+        <title>[B]Fútbol: Partido Amistoso[/B]</title>
+        <starttime>2024-06-10 20:00</starttime>
+        <category>deportes</category> <!-- ETIQUETA NUEVA -->
+        <description>Partido de preparación para la Eurocopa.</description>
+        <thumbnail>https://i.imgur.com/tu_icono_de_futbol.png</thumbnail>
+        <fanart>https://i.imgur.com/tu_fanart_de_estadio.jpg</fanart>
+        <url>plugin://plugin.video.youtube/play/?video_id=ID_DEL_VIDEO_EN_VIVO</url>
+    </item>
+
+    <!-- Evento de Película -->
+    <item>
+        <title>Estreno: Película de Acción Genérica</title>
+        <starttime>2024-06-12 22:00</starttime>
+        <category>peliculas</category> <!-- ETIQUETA NUEVA -->
+        <description>Un héroe debe salvar al mundo.</description>
+        <thumbnail>https://i.imgur.com/poster_de_pelicula.png</thumbnail>
+        <fanart>https://i.imgur.com/fanart_de_pelicula.jpg</fanart>
+        <url>plugin://plugin.video.youtube/play/?video_id=ID_DEL_TRAILER_O_PELICULA</url>
+    </item>
+
+    <!-- Puedes tener varios eventos de la misma categoría -->
+    <item>
+        <title>[B]Tenis: Final de Roland Garros[/B]</title>
+        <starttime>2024-06-09 15:00</starttime>
+        <category>deportes</category> <!-- ETIQUETA NUEVA -->
+        <description>La final del prestigioso torneo de tierra batida.</description>
+        <thumbnail>https://i.imgur.com/icono_tenis.png</thumbnail>
+        <fanart>https://i.imgur.com/fanart_tenis.jpg</fanart>
+        <url>plugin://plugin.video.youtube/play/?video_id=ID_OTRO_VIDEO</url>
+    </item>
+</items>
+
