@@ -1,36 +1,108 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
 <channels>
-
-<channel>
-<name>CANCIONES VERANO</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<items>
-
-<item>
-<title>Mayonesa</title>        
-<urlsolve>https://www.youtube.com/watch?v=Buc4Fo4_-ig</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Levantando las manos</title>        
-<urlsolve>https://www.youtube.com/watch?v=lDPNDQK5344</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>La Mordidita</title>        
-<urlsolve>https://www.youtube.com/watch?v=ToZMHmBmA2E</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-</items>
-</channel>
-
-
-</channels>
+    <channel>
+        <name>Luis Miguel</name>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+        <items>
+            <item>
+                <title>Si nos Dejan</title>
+                <url>uXkubrEPZXE</url>
+                <thumbnail></thumbnail>
+                <fanart></fanart>
+            </item>
+            <item>
+                <title>La Incondicional</title>
+                <url>Wydo1jGtDtk</url>
+                <thumbnail></thumbnail>
+                <fanart></fanart>
+            </item>
+            <item>
+                <title>El dia que me quieras</title>
+                <url>dFYPXMXyCGM</url>
+                <thumbnail></thumbnail>
+                <fanart></fanart>
+            </item>
+            <item>
+                <title>Sabor A Mi</title>
+                <url>dFYPXMXyCGM</url>
+                <thumbnail></thumbnail>
+                <fanart></fanart>
+            </item>
+            <item>
+                <title>Bésame mucho</title>
+                <url>wjt7a7suE74</url>
+                <thumbnail></thumbnail>
+                <fanart></fanart>
+            </item>
+        </items>
+    </channel>
+    <channel>
+        <name>ROCIO DURCAL</name>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+        <items>
+            <item>
+                <title>Frente A Frente</title>
+                <url>M_io03UBbcQ</url>
+                <thumbnail></thumbnail>
+                <fanart></fanart>
+            </item>
+            <item>
+                <title>Teneias Que Ser Tan Cruel</title>
+                <url>7_leXMSUiks</url>
+                <thumbnail></thumbnail>
+                <fanart></fanart>
+            </item>
+            <item>
+                <title>Diferentes</title>
+                <url>G2ShG53esuY</url>
+                <thumbnail></thumbnail>
+                <fanart></fanart>
+            </item>
+            <item>
+                <title>La gata bajo la lluvia</title>
+                <url>XYz25bjYVj4</url>
+                <thumbnail></thumbnail>
+                <fanart></fanart>
+            </item>
+            <item>
+                <title>AMOR ETERNO</title>
+                <url>L4baIrFbmcY</url>
+                <thumbnail></thumbnail>
+                <fanart></fanart>
+            </item>
+            <item>
+                <title>SOMBRAS NADA MAS</title>
+                <url>rkMk_MpWrOQ</url>
+                <thumbnail></thumbnail>
+                <fanart></fanart>
+            </item>
+            <item>
+                <title>Como Han Pasado Los Años</title>
+                <url>3peXKNAo_uc</url>
+                <thumbnail></thumbnail>
+                <fanart></fanart>
+            </item>
+            <item>
+                <title>Ya te olvide</title>
+                <url>zU-R-pKWyLk</url>
+                <thumbnail></thumbnail>
+                <fanart></fanart>
+            </item>
+            <item>
+                <title>Como tu Mujer</title>
+                <url>vfFb-z6tcE8</url>
+                <thumbnail></thumbnail>
+                <fanart></fanart>
+            </item>
+        </items>
+    </channel>
+    <channel>
+        <name>LOS PANCHOS</name>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+        <items>
+            <item>
+                <title>Contigo</title>
+                <url>gAocivF-Qzw</url>
