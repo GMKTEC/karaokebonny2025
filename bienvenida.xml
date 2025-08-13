@@ -1,7 +1,430 @@
 
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<item><title> [COLOR LawunGreen]BIENVENIDO ADDON KARAOKE BY E.S: [COLOR lightblue][B]03[/B][/COLOR] JUNIO 2017[/COLOR] </title> <link>NA</link></item>
+
+<item>
+<title>[COLOR purple]CUMBIAS[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://http2.mlstatic.com/S_264311-MLA20542522486_012016-Y.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/lKC9xvadEAY/maxresdefault.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/refs/heads/main/cumbias.xml</externallink>	
+</item>
+
+<item>
+<title>** [COLOR yellow]MERENGUES[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://deepmp3.ru/images/1241522-300x300/merengue-session-karaoke.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/refs/heads/main/merengues.xml</externallink>	
+</item>
+
+<item>
+<title>** [COLOR lime]BACHATAS[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://img0029.psstatic.com/98616242_walmartcom-karaoke-lo-mejor-de-la-bachata-2cd-karaoke-.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/bachatas.xml</externallink>	
+</item>
+
+<item>
+<title>** [COLOR red]NAVIDAD[/COLOR] ** </title>
+<link>http://Ignoreme</link>
+<thumbnail>http://i65.tinypic.com/29ln39u.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/RsW-sPHRTGU/maxresdefault.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/navidad.xml</externallink>	
+</item>
+
+<item>
+<title>** [COLOR skyblue]BALADAS[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://grupopandora.netfirms.com/MENUDISCOGRAFIAV01/PISTAS/BASEDISCOS/Disco015.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/baladas.xml</externallink>	
+</item>
+
+<item>
+<title>** [COLOR orange]POP[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.terra-melodica.de/images/product_images/info_images/6981_0.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/pop.xml</externallink>	
+</item>
+
+<item>
+<title>** [COLOR brown]DUETOS[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://i.imgur.com/ntabaQe.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/duetos.xml</externallink>	
+</item>
+
+<item>
+<title>** [B][COLOR white]RANCHERAS[/B][/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://images-eu.ssl-images-amazon.com/images/I/51QKULd7NuL._SS500.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/rancheras.xml</externallink>	
+</item>
+
+<item>
+<title>** [COLOR pink]BOLEROS[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.yoyomusica.com/imagenes/imagenes%20site%20yoyo/dvd/karaoke/boleros.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/boleros.xml</externallink>	
+</item>
+
+<item>
+<title>** [COLOR green]VARIADOS[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://luismoraledaespectaculos.multiespaciosweb.com/uploads/2013/07/DISCO+61.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/variados.xml</externallink>	
+</item>
+
+<item>
+<title>** [COLOR blue]ZONA DE BAILE[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://t2.uccdn.com/images/5/9/0/img_beneficios_fisicos_y_emocionales_del_baile_1095_orig.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/zonadebaile.xml</externallink>	
+</item>
+
+<item>
+<title>** [COLOR yellow] MIX[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://a2ua.com/mix/mix-002.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/mix.xml</externallink>	
+</item>
+
+<item>
+<title>** [COLOR red]REGGAETON[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/564x/bd/3d/da/bd3dda43daf2bef4ffa98a00c5fa06f5.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/reegaeton.xml</externallink>	
+</item>
+
+
+<item>
+<title>** [COLOR lime]FLAMENCO[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.flamencoexport.com/photo/productos&2Fcd_s&2Fdvd&2Fflamenco-pop-kara/329x472/flamenco-pop-(karaoke)---(dvd).jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/flamenco.xml</externallink>	
+</item>
+
+<item>
+<title>** [COLOR skyblue]SEVILLANAS[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://sgfm.elcorteingles.es/SGFM/dctm/MEDIA02/CONTENIDOS/201505/29/00105119132891____1__640x640.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/sevillanas.xml</externallink>	
+</item>
+
+<item>
+<title>** [COLOR brown]RUMBAS[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://darkmp3.ru/imgs/7931550-460x460/spanish-rumba-5-karaoke.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/rumbas.xml</externallink>	
+</item>
+
+<item>
+<title>** [COLOR orange]ROCK[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://miplanhoy.com/wp-content/uploads/2013/06/1314622545_rok-karaoke.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/rock.xml</externallink>	
+</item>
+
+<item>
+<title>** [COLOR skyblue]SALSA[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://libu.s3.amazonaws.com/img/120_7706236171158_yoyo.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/salsa.xml</externallink>	
+</item
+
+<item>
+<title>** [COLOR red]PORTUGAL[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://electomania.es/wp-content/uploads/2015/10/portugal_640.png</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/portugal.xml</externallink>	
+</item
+
+<item>
+<title>** [COLOR skyblue]ALEMANIA[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.vienayyo.com/wp-content/uploads/2011/03/bandera-alemana-160x160.png</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/alemania.xml</externallink>	
+</item
+
+<item>
+<title>** [COLOR orange]INGLATERRA[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://ndl.mgccw.com/mu3/app/20140522/08/1400726140829/ss/0_small.png</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/inglaterra.xml</externallink>	
+</item
+
+<item>
+<title>** [COLOR brown]JUANLUISGUERRA[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.flowactivo.com/web/wp-content/uploads/2014/11/juan-luis-guerra-2014.png</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/juanluisguerra.xml</externallink>	
+</item
+
+<item>
+<title>** [COLOR brown]ENRIQUEIGLESIAS[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://ep01.epimg.net/elpais/imagenes/2016/04/19/estilo/1461068974_957321_1461074128_noticiarelacionadaprincipal_normal.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/enriqueiglesias.xml</externallink>	
+</item
+
+<item>
+<title>** [COLOR brown]MANA[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://4.bp.blogspot.com/-K-uEHk83g2E/UlpClQNmsgI/AAAAAAAAMdQ/RU50lxCy-yw/s1600/Man+PNG+(2).png</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/mana.xml</externallink>	
+</item
+
+<item>
+<title>** [COLOR red]JUANES[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.radioagricultura.cl/wp-content/uploads/2016/12/juanes4.png</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/juanes.xml</externallink>	
+</item
+
+<item>
+<title>** [COLOR lime]LUZCASAL[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i1.wp.com/regalamusica.es/wp-content/uploads/artistas/LUZ-CASAL1481213863.png?ssl=1</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/luzcasal.xml</externallink>	
+</item
+
+<item>
+<title>** [COLOR orange]GLORIAESTEFAN[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.thefamouspeople.com/profiles/images/gloria-estefan-5.png</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/gloriaestefan.xml</externallink>	
+</item
+
+<item>
+<title>** [COLOR red]OT[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://atrozconleche.com/wp-content/uploads/2016/10/uyv06a7i6sp92payev55e2edaf4d9fd_ot-1.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/ot.xml</externallink>	
+</item
+
+<item>
+<title>** [COLOR lime]CHA[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://dancereverie.com/wp-content/uploads/chacha.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/cha.xml</externallink>	
+</item
+
+<item>
+<title>** [COLOR lime]RICKY MARTIN[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://cdn5.thr.com/sites/default/files/2014/07/ricky_martin_a_p.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/rickymartin.xml</externallink>	
+</item
+
+<item>
+<title>** [COLOR yellow]NINO BRAVO[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://4.bp.blogspot.com/_GklVz6TDRPA/TOagOAIraYI/AAAAAAAAAig/txXEB-00JmY/s1600/Recordando_Nino_Bravo.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/ninobravo.xml</externallink>	
+</item
+
+<item>
+<title>** [COLOR green]JOSE VELEZ[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.teldenoticias.com/img/fotos//fotos%20640px/Captura%20de%20pantalla%202012-08-25%20a%20la(s)%2022.47.15.png</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/josevelez.xml</externallink>	
+</item
+
+<item>
+<title>** [COLOR green]JOSELUISRODRIGUEZ[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://cdn.crhoy.net/wp-content/uploads/2014/11/Captura-de-pantalla-2014-11-01-a-las-15.30.35.png</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/joseluisrodriguez.xml</externallink>	
+</item>
+
+<item>
+<title>** [COLOR red]HIMNO SEVILLA[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://pbs.twimg.com/profile_images/633934269883125760/XiFqlW5L.png</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/sevilla.xml</externallink>	
+</item>
+
+<item>
+<title>** [COLOR green]Himno R.Betis Balompie[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/an/f/f1/Real_Betis.png</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/betis.xml</externallink>	
+</item>
+
+
+<item>
+<title>** [COLOR yellow]DECADA PRODIGIOSA[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://ladecadaprodigiosa.es/wp-content/uploads/2016/07/Logotipo-La-Decada-Prodigiosa-3.png</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/decadaprodigiosa.xml</externallink>	
+</item>
+
+<item>
+<title>** [COLOR red]LUIS FONSI[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.fonsi-ecuador.com/images/slider6.png</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/luisfonsi.xml</externallink>	
+</item>
+
+<item>
+<title>** [COLOR green]JOSELUISPERALES[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.larepublica.ec/wp-content/uploads/2015/01/perales.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/joseluisperales.xml</externallink>	
+</item>
+
+<item>
+<title>** [COLOR red]EUROVISION[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://i.imgur.com/Tb8TM2q.png</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/eurovision.xml</externallink>	
+</item>
+
+<item>
+<title>** [COLOR blue]EFECTO PASILLO[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.efectopasillo.com/wp-content/uploads/2015/06/0-portada.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/efectopasillo.xml</externallink>	
+</item>
+
+<item>
+<title>** [COLOR red]RAPHAEL[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.raphaelsite.com/records/Mi_gran_Noche.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/raphael.xml</externallink>	
+</item>
+
+<item>
+<title>** [COLOR red]COPLA[/COLOR] ** </title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.flamencoexport.com/photo/productos&2Fpeinetas&2Fpeineta1054/500x483/Peineta-de-Flamenco-Ref.-1054.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/Copla.xml</externallink>	
+</item>
+
+
+<item>
+<title>** [COLOR green]VICENTEFERNANDEZ[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://blastro2.com/wp-content/uploads/2011/11/33686_168445823166896_161829897161822_575597_7179967_n.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/vicentefernandez.xml</externallink>	
+</item>
+
+<item>
+<title>** [COLOR yellow]PASTORI[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://c-sf.smule.com/sf/s49/arr/d3/42/896157fc-d5c1-405b-af1d-f4430a99b315.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/pastori.xml</externallink>	
+</item>
+
+<item>
+<title>** [COLOR blue]KARAOKE ORQUESTAS[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://1.bp.blogspot.com/-PacVme-COEs/UT4ZPr1tKnI/AAAAAAAAAVY/F5elWNRComE/s1600/laorquesta.png</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/karaokeorquestas.xml</externallink>	
+</item>
+
+<item>
+<title>** [COLOR red]CANCIONES VERANO[/COLOR] ** </title>
+<link>http://Ignoreme</link>
+<thumbnail>http://leveltips.com/public/leveltips_com_gte0274.png</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/cancionesverano.xml</externallink>	
+</item>
+
+<item>
+<title>** [COLOR pink]VANESA MARTIN[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://roadmusic.alsa.es/wp-content/uploads/2016/11/Captura-de-pantalla-2016-11-07-a-las-15.13.43-627x400.png</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/vanesamartin.xml</externallink>	
+</item>
+
+<item>
+<title>** [COLOR blue]INDIA MARTINEZ[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.cadizdiferente.com/wp-content/uploads/2014/05/concierto-india-martinez-cadiz-470x260.png</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/indiaamartinez.xml</externallink>	
+</item>
+
+<item>
+<title>** [COLOR red]MARCOS ANTONIO SOLIS[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://boomonline.com/wp-content/uploads/sites/11/2016/10/marco.png</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/marcoantoniosolis.xml</externallink>	
+</item>
+
+<item>
+<title>** [COLOR red]CONCIERTOS MUSICALES[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://radionotas.com.previewdns.com/wp-content/uploads/2014/09/El-Gran-Ok.png</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/conciertosmusicales.xml</externallink>	
+</item>
+
+<item>
+<title>** [COLOR yellow]MARC ANTHONY[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://www.lapatilla.com/site/wp-content/uploads/2013/07/marc-anthony.png</thumbnail>
+<fanart>http://2.bp.blogspot.com/-d_BGX4liA78/VmW9sKb1X3I/AAAAAAAAH60/HbRlDvZZlbU/s1600/musicas.png</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/marcanthony.xml</externallink>	
+</item>
+
+
+<item>
+<title>** [COLOR yellow]kARAOKE PETICIONES[/COLOR] **</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.nacion.com/ocio/aire-libre/Fotografia-Cantante-Bermudez-Locacion-Karaoke_LNCIMA20130524_0547_5.jpg</thumbnail>
+<fanart>https://i1.wp.com/www3.gobiernodecanarias.org/medusa/edublog/eoisantacruzdetenerife/wp-content/uploads/sites/146/2015/03/karaoke.png?fit=620%2C387</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/karaokepeticiones.xml</externallink>	
+</item>
 
 
      
         
+
 
