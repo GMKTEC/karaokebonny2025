@@ -1,198 +1,198 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-chno="1" tvg-id="DAZN 1 HD" tvg-name="DAZN 1 720p *" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png", DAZN 1 720p *
-http://127.0.0.1:6878/ace/manifest.m3u8?id=a116ce3ff95c41c60e987e2b1aa247007f707884
+http://192.168.1.137:6878/ace/manifest.m3u8?id=a116ce3ff95c41c60e987e2b1aa247007f707884
 
 #EXTINF:-1 tvg-chno="2" tvg-id="DAZN 1 HD" tvg-name="DAZN 1 1080p *" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png", DAZN 1 1080p *
-http://127.0.0.1:6878/ace/manifest.m3u8?id=dddff67edfa7061f643ec5ae0be110169850363d
+http://192.168.1.137:6878/ace/manifest.m3u8?id=dddff67edfa7061f643ec5ae0be110169850363d
 
 #EXTINF:-1 tvg-chno="3" tvg-id="DAZN 1 HD" tvg-name="DAZN 1 **" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png", DAZN 1 **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+http://192.168.1.137:6878/ace/manifest.m3u8?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 
 #EXTINF:-1 tvg-chno="4" tvg-id="DAZN 1 HD" tvg-name="DAZN 1 **" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png", DAZN 1 **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=9afc89481b721ce6c326c85e47148676077b8e62
+http://192.168.1.137:6878/ace/manifest.m3u8?id=9afc89481b721ce6c326c85e47148676077b8e62
 
 #EXTINF:-1 tvg-chno="5" tvg-id="Eurosport 1 HD" tvg-name="Eurosport 1 720p **" tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png", Eurosport 1 720p **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=a7b42f9d65636d1b1d9316d3e91ebe12b192658c
+http://192.168.1.137:6878/ace/manifest.m3u8?id=a7b42f9d65636d1b1d9316d3e91ebe12b192658c
 
 #EXTINF:-1 tvg-chno="6" tvg-id="Eurosport 1 HD" tvg-name="Eurosport 1 1080p *" tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png", Eurosport 1 1080p *
-http://127.0.0.1:6878/ace/manifest.m3u8?id=48a589dbeab3544662fafd79888aada7d834cfe9
+http://192.168.1.137:6878/ace/manifest.m3u8?id=48a589dbeab3544662fafd79888aada7d834cfe9
 
 #EXTINF:-1 tvg-chno="7" tvg-id="Eurosport 1 HD" tvg-name="Eurosport 1 1080p **" tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png", Eurosport 1 1080p **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=0db68ab752b50e6bb257eef22d102c1d29cd92ea
+http://192.168.1.137:6878/ace/manifest.m3u8?id=0db68ab752b50e6bb257eef22d102c1d29cd92ea
 
 #EXTINF:-1 tvg-chno="8" tvg-id="Eurosport 2" tvg-name="Eurosport 2 720p **" tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png", Eurosport 2 720p **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=5c910d614894635153a7d42de98cc2e4a958a53f
+http://192.168.1.137:6878/ace/manifest.m3u8?id=5c910d614894635153a7d42de98cc2e4a958a53f
 
 #EXTINF:-1 tvg-chno="9" tvg-id="Eurosport 2" tvg-name="Eurosport 2 1080p **" tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png", Eurosport 2 1080p **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=24f940fef7e270b6b3ae5d9dc713a80c8345cfba
+http://192.168.1.137:6878/ace/manifest.m3u8?id=24f940fef7e270b6b3ae5d9dc713a80c8345cfba
 
 #EXTINF:-1 tvg-chno="10" tvg-id="Eurosport 2" tvg-name="Eurosport 2 *" tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png", Eurosport 2 *
-http://127.0.0.1:6878/ace/manifest.m3u8?id=f5908690485ae2facecf3074446ba4315f07a193
+http://192.168.1.137:6878/ace/manifest.m3u8?id=f5908690485ae2facecf3074446ba4315f07a193
 
 #EXTINF:-1 tvg-chno="11" tvg-id="Eurosport 2" tvg-name="Eurosport 2 **" tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png", Eurosport 2 **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=d01d255aaaf2fb91c0a8c98a826b4bd4769d81c1
+http://192.168.1.137:6878/ace/manifest.m3u8?id=d01d255aaaf2fb91c0a8c98a826b4bd4769d81c1
 
 #EXTINF:-1 tvg-chno="12" tvg-id="LaLiga TV Hypermotion HD" tvg-name="LaLiga TV Hypermotion 720p **" tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png", LaLiga TV Hypermotion 720p **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=a4f072c9b614323ac1258a175f868a909ea3c8cd
+http://192.168.1.137:6878/ace/manifest.m3u8?id=a4f072c9b614323ac1258a175f868a909ea3c8cd
 
 #EXTINF:-1 tvg-chno="13" tvg-id="M+ LaLiga HD" tvg-name="M+ LaLiga 720p *" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png", M+ LaLiga 720p *
-http://127.0.0.1:6878/ace/manifest.m3u8?id=3ace1463a7cad979c3a4002b245487e9982e9f1a
+http://192.168.1.137:6878/ace/manifest.m3u8?id=3ace1463a7cad979c3a4002b245487e9982e9f1a
 
 #EXTINF:-1 tvg-chno="14" tvg-id="M+ LaLiga HD" tvg-name="M+ LaLiga 720p *" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png", M+ LaLiga 720p *
-http://127.0.0.1:6878/ace/manifest.m3u8?id=f863873de9f7b2996dde19a0657dd89835af3007
+http://192.168.1.137:6878/ace/manifest.m3u8?id=f863873de9f7b2996dde19a0657dd89835af3007
 
 #EXTINF:-1 tvg-chno="15" tvg-id="M+ LaLiga HD" tvg-name="M+ LaLiga 720p **" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png", M+ LaLiga 720p **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58
+http://192.168.1.137:6878/ace/manifest.m3u8?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58
 
 #EXTINF:-1 tvg-chno="16" tvg-id="M+ LaLiga HD" tvg-name="M+ LaLiga 1080p **" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png", M+ LaLiga 1080p **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
+http://192.168.1.137:6878/ace/manifest.m3u8?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
 
 #EXTINF:-1 tvg-chno="17" tvg-id="M+ LaLiga HD" tvg-name="M+ LaLiga 1080p **" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png", M+ LaLiga 1080p **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=4b528d10eaad747ddf52251206177573ee3e9f74
+http://192.168.1.137:6878/ace/manifest.m3u8?id=4b528d10eaad747ddf52251206177573ee3e9f74
 
 #EXTINF:-1 tvg-chno="18" tvg-id="M+ LaLiga HD" tvg-name="M+ LaLiga 1080p **" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png", M+ LaLiga 1080p **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=c9321006921967d6258df6945f1d598a5c0cbf1e
+http://192.168.1.137:6878/ace/manifest.m3u8?id=c9321006921967d6258df6945f1d598a5c0cbf1e
 
 #EXTINF:-1 tvg-chno="19" tvg-id="M+ Liga de Campeones HD" tvg-name="M+ Liga de Campeones 720p *" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png", M+ Liga de Campeones 720p *
-http://127.0.0.1:6878/ace/manifest.m3u8?id=63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439
+http://192.168.1.137:6878/ace/manifest.m3u8?id=63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439
 
 #EXTINF:-1 tvg-chno="20" tvg-id="M+ Liga de Campeones HD" tvg-name="M+ Liga de Campeones 720p **" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png", M+ Liga de Campeones 720p **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=43249349740032bee068b5bbff7b078f642812db
+http://192.168.1.137:6878/ace/manifest.m3u8?id=43249349740032bee068b5bbff7b078f642812db
 
 #EXTINF:-1 tvg-chno="21" tvg-id="M+ Liga de Campeones HD" tvg-name="M+ Liga de Campeones 1080p *" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png", M+ Liga de Campeones 1080p *
-http://127.0.0.1:6878/ace/manifest.m3u8?id=91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
+http://192.168.1.137:6878/ace/manifest.m3u8?id=91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
 
 #EXTINF:-1 tvg-chno="22" tvg-id="M+ Liga de Campeones HD" tvg-name="M+ Liga de Campeones 1080p **" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png", M+ Liga de Campeones 1080p **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=2b51710cee513e8939785fa3e7980f32d4e0415f
+http://192.168.1.137:6878/ace/manifest.m3u8?id=2b51710cee513e8939785fa3e7980f32d4e0415f
 
 #EXTINF:-1 tvg-chno="23" tvg-id="M+ Liga de Campeones HD" tvg-name="M+ Liga de Campeones 1080p **" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png", M+ Liga de Campeones 1080p **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
+http://192.168.1.137:6878/ace/manifest.m3u8?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
 
 #EXTINF:-1 tvg-chno="24" tvg-id="M+ Liga de Campeones HD" tvg-name="M+ Liga de Campeones 1080p **" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png", M+ Liga de Campeones 1080p **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e
+http://192.168.1.137:6878/ace/manifest.m3u8?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e
 
 #EXTINF:-1 tvg-chno="25" tvg-id="M+ Liga de Campeones 2 HD" tvg-name="M+ Liga de Campeones 2 720p *" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png", M+ Liga de Campeones 2 720p *
-http://127.0.0.1:6878/ace/manifest.m3u8?id=47188da7d2e4beaee82cff174f223fdd23f78fa6
+http://192.168.1.137:6878/ace/manifest.m3u8?id=47188da7d2e4beaee82cff174f223fdd23f78fa6
 
 #EXTINF:-1 tvg-chno="26" tvg-id="M+ Liga de Campeones 2 HD" tvg-name="M+ Liga de Campeones 2 720p **" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png", M+ Liga de Campeones 2 720p **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=38f7b2044e549df2039ff26cefa6f9a60c854d5e
+http://192.168.1.137:6878/ace/manifest.m3u8?id=38f7b2044e549df2039ff26cefa6f9a60c854d5e
 
 #EXTINF:-1 tvg-chno="27" tvg-id="M+ Liga de Campeones 2 HD" tvg-name="M+ Liga de Campeones 2 1080p *" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png", M+ Liga de Campeones 2 1080p *
-http://127.0.0.1:6878/ace/manifest.m3u8?id=8156912ae14f6174a19c8a4efcf36a06e847f632
+http://192.168.1.137:6878/ace/manifest.m3u8?id=8156912ae14f6174a19c8a4efcf36a06e847f632
 
 #EXTINF:-1 tvg-chno="28" tvg-id="M+ Liga de Campeones 2 HD" tvg-name="M+ Liga de Campeones 2 1080p **" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png", M+ Liga de Campeones 2 1080p **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=bb26037a253866d341778181eff5c8637240d615
+http://192.168.1.137:6878/ace/manifest.m3u8?id=bb26037a253866d341778181eff5c8637240d615
 
 #EXTINF:-1 tvg-chno="29" tvg-id="M+ Liga de Campeones 2 HD" tvg-name="M+ Liga de Campeones 2 1080p **" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png", M+ Liga de Campeones 2 1080p **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5
+http://192.168.1.137:6878/ace/manifest.m3u8?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5
 
 #EXTINF:-1 tvg-chno="30" tvg-id="M+ Liga de Campeones 3 HD" tvg-name="M+ Liga de Campeones 3 720p *" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png", M+ Liga de Campeones 3 720p *
-http://127.0.0.1:6878/ace/manifest.m3u8?id=5b7f54b12e0f96ceba1299f44eac4b0f97403e4e
+http://192.168.1.137:6878/ace/manifest.m3u8?id=5b7f54b12e0f96ceba1299f44eac4b0f97403e4e
 
 #EXTINF:-1 tvg-chno="31" tvg-id="M+ Liga de Campeones 3 HD" tvg-name="M+ Liga de Campeones 3 1080p **" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png", M+ Liga de Campeones 3 1080p **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+http://192.168.1.137:6878/ace/manifest.m3u8?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
 
 #EXTINF:-1 tvg-chno="32" tvg-id="M+ Liga de Campeones 3 HD" tvg-name="M+ Liga de Campeones 3 1080p **" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png", M+ Liga de Campeones 3 1080p **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=85a8e0675bc27ddfd403b8f72953c606d07a8de8
+http://192.168.1.137:6878/ace/manifest.m3u8?id=85a8e0675bc27ddfd403b8f72953c606d07a8de8
 
 #EXTINF:-1 tvg-chno="33" tvg-id="Movistar Plus+ HD" tvg-name="MOVISTAR PLUS 1080p **" tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png", MOVISTAR PLUS 1080p **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+http://192.168.1.137:6878/ace/manifest.m3u8?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 
 #EXTINF:-1 tvg-chno="34" tvg-id="M+ Deportes HD" tvg-name="M+ Deportes 720p *" tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png", M+ Deportes 720p *
-http://127.0.0.1:6878/ace/manifest.m3u8?id=6e031aed136bf97d8667fcd5fc49c73256928281
+http://192.168.1.137:6878/ace/manifest.m3u8?id=6e031aed136bf97d8667fcd5fc49c73256928281
 
 #EXTINF:-1 tvg-chno="35" tvg-id="M+ Deportes HD" tvg-name="M+ Deportes 720p **" tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png", M+ Deportes 720p **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
+http://192.168.1.137:6878/ace/manifest.m3u8?id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
 
 #EXTINF:-1 tvg-chno="36" tvg-id="M+ Deportes HD" tvg-name="M+ Deportes 1080p *" tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png", M+ Deportes 1080p *
-http://127.0.0.1:6878/ace/manifest.m3u8?id=c6a824a81b36f6c3529826477caf2ad94b45776d
+http://192.168.1.137:6878/ace/manifest.m3u8?id=c6a824a81b36f6c3529826477caf2ad94b45776d
 
 #EXTINF:-1 tvg-chno="37" tvg-id="M+ Deportes HD" tvg-name="M+ Deportes 1080p **" tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png", M+ Deportes 1080p **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=ebca4a63ce3bfda7b272964a1acc5227218184a4
+http://192.168.1.137:6878/ace/manifest.m3u8?id=ebca4a63ce3bfda7b272964a1acc5227218184a4
 
 #EXTINF:-1 tvg-chno="38" tvg-id="M+ Deportes 2 HD" tvg-name="M+ Deportes 2 720p *" tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png", M+ Deportes 2 720p *
-http://127.0.0.1:6878/ace/manifest.m3u8?id=6b15368775693c33c49fab02e7900c1976a5da90
+http://192.168.1.137:6878/ace/manifest.m3u8?id=6b15368775693c33c49fab02e7900c1976a5da90
 
 #EXTINF:-1 tvg-chno="39" tvg-id="M+ Deportes 2 HD" tvg-name="M+ Deportes 2 720p **" tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png", M+ Deportes 2 720p **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25
+http://192.168.1.137:6878/ace/manifest.m3u8?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25
 
 #EXTINF:-1 tvg-chno="40" tvg-id="M+ Deportes 2 HD" tvg-name="M+ Deportes 2 1080p **" tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png", M+ Deportes 2 1080p **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=890901fa742b19d8808cf49f19db2d3016437c56
+http://192.168.1.137:6878/ace/manifest.m3u8?id=890901fa742b19d8808cf49f19db2d3016437c56
 
 #EXTINF:-1 tvg-chno="41" tvg-id="M+ Deportes 2 HD" tvg-name="M+ Deportes 2 1080p **" tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png", M+ Deportes 2 1080p **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
+http://192.168.1.137:6878/ace/manifest.m3u8?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
 
 #EXTINF:-1 tvg-chno="42" tvg-id="M+ Deportes 3" tvg-name="M+ Deportes 3 720p *" tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png", M+ Deportes 3 720p *
-http://127.0.0.1:6878/ace/manifest.m3u8?id=e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d
+http://192.168.1.137:6878/ace/manifest.m3u8?id=e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d
 
 #EXTINF:-1 tvg-chno="43" tvg-id="M+ Deportes 3" tvg-name="M+ Deportes 3 720p **" tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png", M+ Deportes 3 720p **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534
+http://192.168.1.137:6878/ace/manifest.m3u8?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534
 
 #EXTINF:-1 tvg-chno="44" tvg-id="M+ Deportes 3" tvg-name="M+ Deportes 3 1080p *" tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png", M+ Deportes 3 1080p *
-http://127.0.0.1:6878/ace/manifest.m3u8?id=f4d9011721fad5098febbe4d7c078a582e176a01
+http://192.168.1.137:6878/ace/manifest.m3u8?id=f4d9011721fad5098febbe4d7c078a582e176a01
 
 #EXTINF:-1 tvg-chno="45" tvg-id="M+ Deportes 3" tvg-name="M+ Deportes 3 1080p **" tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png", M+ Deportes 3 1080p **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903
+http://192.168.1.137:6878/ace/manifest.m3u8?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903
 
 #EXTINF:-1 tvg-chno="46" tvg-id="M+ Deportes 4" tvg-name="M+ Deportes 4 720p *" tvg-logo="https://i.ibb.co/WDN9NN9/deportes4.png", M+ Deportes 4 720p *
-http://127.0.0.1:6878/ace/manifest.m3u8?id=2a5d90651e212106434edea5bfbba1a843b7b97c
+http://192.168.1.137:6878/ace/manifest.m3u8?id=2a5d90651e212106434edea5bfbba1a843b7b97c
 
 #EXTINF:-1 tvg-chno="47" tvg-id="M+ Deportes 4" tvg-name="M+ Deportes 4 1080p *" tvg-logo="https://i.ibb.co/WDN9NN9/deportes4.png", M+ Deportes 4 1080p *
-http://127.0.0.1:6878/ace/manifest.m3u8?id=4abe06c5cce7cb3c6bef2c3bccaafefd3299794f
+http://192.168.1.137:6878/ace/manifest.m3u8?id=4abe06c5cce7cb3c6bef2c3bccaafefd3299794f
 
 #EXTINF:-1 tvg-chno="48" tvg-id="M+ Deportes 4" tvg-name="M+ Deportes 4 **" tvg-logo="https://i.ibb.co/WDN9NN9/deportes4.png", M+ Deportes 4 **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=590a1f4546e3a0d5d419b62b8177b44d6ce0339f
+http://192.168.1.137:6878/ace/manifest.m3u8?id=590a1f4546e3a0d5d419b62b8177b44d6ce0339f
 
 #EXTINF:-1 tvg-chno="49" tvg-id="M+ Deportes 5" tvg-name="M+ Deportes 5 1080p *" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-5-por-movistar-plus-es.png", M+ Deportes 5 1080p *
-http://127.0.0.1:6878/ace/manifest.m3u8?id=646a1ed4ece843de1979f7888cbdd4d937506a28
+http://192.168.1.137:6878/ace/manifest.m3u8?id=646a1ed4ece843de1979f7888cbdd4d937506a28
 
 #EXTINF:-1 tvg-chno="50" tvg-id="M+ Golf HD" tvg-name="M+ Golf 1080p **" tvg-logo="https://www.vhv.rs/dpng/d/424-4244985_file-movistar-golf-svg-logo-movistar-golf-hd.png", M+ Golf 1080p **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=8121478d3d3e563ad6b98018bc1c0aeb2f6166eb
+http://192.168.1.137:6878/ace/manifest.m3u8?id=8121478d3d3e563ad6b98018bc1c0aeb2f6166eb
 
 #EXTINF:-1 tvg-chno="51" tvg-id="M+ Vamos HD" tvg-name="M+ Vamos 720p **" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png", M+ Vamos 720p **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=0e5d8c9724fa9163f49096b70484e315251eb785
+http://192.168.1.137:6878/ace/manifest.m3u8?id=0e5d8c9724fa9163f49096b70484e315251eb785
 
 #EXTINF:-1 tvg-chno="52" tvg-id="M+ Vamos HD" tvg-name="M+ Vamos 1080p *" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png", M+ Vamos 1080p *
-http://127.0.0.1:6878/ace/manifest.m3u8?id=ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
+http://192.168.1.137:6878/ace/manifest.m3u8?id=ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
 
 #EXTINF:-1 tvg-chno="53" tvg-id="M+ Vamos HD" tvg-name="M+ Vamos 1080p **" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png", M+ Vamos 1080p **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=476b6f6583517bd75c15c4663bf45fab7c8da9cf
+http://192.168.1.137:6878/ace/manifest.m3u8?id=476b6f6583517bd75c15c4663bf45fab7c8da9cf
 
 #EXTINF:-1 tvg-chno="54" tvg-id="M+ Vamos 2" tvg-name="M+ VAMOS 2 720p *" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png", M+ VAMOS 2 720p *
-http://127.0.0.1:6878/ace/manifest.m3u8?id=f51674b1dd1ab5a668fa97a0f13a490632f0d7ca
+http://192.168.1.137:6878/ace/manifest.m3u8?id=f51674b1dd1ab5a668fa97a0f13a490632f0d7ca
 
 #EXTINF:-1 tvg-chno="55" tvg-id="M+ Vamos 2" tvg-name="M+ VAMOS 2 1080p *" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png", M+ VAMOS 2 1080p *
-http://127.0.0.1:6878/ace/manifest.m3u8?id=5e310dbffed8c941d20ad819cb8ef43c34b07884
+http://192.168.1.137:6878/ace/manifest.m3u8?id=5e310dbffed8c941d20ad819cb8ef43c34b07884
 
 #EXTINF:-1 tvg-chno="56" tvg-id="M+ Vamos 3" tvg-name="M+ VAMOS 3 720p **" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png", M+ VAMOS 3 720p **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=837883625d40e1eb5566eefaf74811046491f53a
+http://192.168.1.137:6878/ace/manifest.m3u8?id=837883625d40e1eb5566eefaf74811046491f53a
 
 #EXTINF:-1 tvg-chno="57" tvg-id="M+ Vamos 3" tvg-name="M+ VAMOS 3 1080p **" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png", M+ VAMOS 3 1080p **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=b7b1c1eeb4be09c63fbc2f319c9760851c274455
+http://192.168.1.137:6878/ace/manifest.m3u8?id=b7b1c1eeb4be09c63fbc2f319c9760851c274455
 
 #EXTINF:-1 tvg-chno="58" tvg-id="Primera Federación" tvg-name="RFEF TV 1080p *" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es", RFEF TV 1080p *
-http://127.0.0.1:6878/ace/manifest.m3u8?id=7b742628b9f7e82902bdbc1ff92eba1988875cfc
+http://192.168.1.137:6878/ace/manifest.m3u8?id=7b742628b9f7e82902bdbc1ff92eba1988875cfc
 
 #EXTINF:-1 tvg-chno="59" tvg-id="Primera Federación" tvg-name="RFEF TV 1080p **" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es", RFEF TV 1080p **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=854ff9c607101791346111cd2366a392c3b8c351
+http://192.168.1.137:6878/ace/manifest.m3u8?id=854ff9c607101791346111cd2366a392c3b8c351
 
 #EXTINF:-1 tvg-chno="60" tvg-id="Esport 3" tvg-name="Esport3 720p **" tvg-logo="https://img.3cat.cat/multimedia/jpg/1/5/1697802708951.jpg", Esport3 720p **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=ed6524f8f73c30cf102fde66f2cb520f4b5842e3
+http://192.168.1.137:6878/ace/manifest.m3u8?id=ed6524f8f73c30cf102fde66f2cb520f4b5842e3
 
 #EXTINF:-1 tvg-chno="61" tvg-id="Esport 3" tvg-name="Esport3 1080p **" tvg-logo="https://img.3cat.cat/multimedia/jpg/1/5/1697802708951.jpg", Esport3 1080p **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
+http://192.168.1.137:6878/ace/manifest.m3u8?id=8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
 
 #EXTINF:-1 tvg-chno="62" tvg-id="Teledeporte" tvg-name="Teledeporte 720p **" tvg-logo="https://img2.rtve.es/n/15966755", Teledeporte 720p **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=b0d1489c9f3239349665ad5ab423363f2b02e5ae
+http://192.168.1.137:6878/ace/manifest.m3u8?id=b0d1489c9f3239349665ad5ab423363f2b02e5ae
 
 #EXTINF:-1 tvg-chno="63" tvg-id="Teledeporte" tvg-name="Teledeporte 1080p *" tvg-logo="https://img2.rtve.es/n/15966755", Teledeporte 1080p *
-http://127.0.0.1:6878/ace/manifest.m3u8?id=b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
+http://192.168.1.137:6878/ace/manifest.m3u8?id=b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
 
 #EXTINF:-1 tvg-chno="64" tvg-id="Teledeporte" tvg-name="Teledeporte 1080p **" tvg-logo="https://img2.rtve.es/n/15966755", Teledeporte 1080p **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=3b50a1dca0977e3761d016edd79314ab797f74f6
+http://192.168.1.137:6878/ace/manifest.m3u8?id=3b50a1dca0977e3761d016edd79314ab797f74f6
 
 #EXTINF:-1 tvg-chno="65" tvg-id="Teledeporte" tvg-name="Teledeporte 1080p **" tvg-logo="https://img2.rtve.es/n/15966755", Teledeporte 1080p **
-http://127.0.0.1:6878/ace/manifest.m3u8?id=77cf022557c56cdf8d8115f50e61f846ad72ee05
+http://192.168.1.137:6878/ace/manifest.m3u8?id=77cf022557c56cdf8d8115f50e61f846ad72ee05
 
-#EXTINF:-1 tvg-chno="66" tvg-id="" t
+#EXTINF:-1 tvg-chno="66
